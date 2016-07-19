@@ -1,7 +1,7 @@
 ![Alt text](SliceTracker/Resources/Icons/SliceTracker.png)
 
 
-### Intro
+### Introduction
 
 SliceTracker is a 3D Slicer (see http://slicer.org) extension designed to support in-bore MRI-guided targeted prostate biopsy, as further elaborated in the following sections:
 
