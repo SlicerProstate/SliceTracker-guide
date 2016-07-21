@@ -1,12 +1,12 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](README)
 * [User guide](docs/user_guide)
-   * [Installation](docs/user_guide/install.md)
-   * [Upgrade](docs/user_guide/upgrade.md)
+   * [Installation](docs/user_guide/install)
+   * [Upgrade](docs/user_guide/upgrade)
    * [Initialization](docs/user_guide/init)
-   * [Biopsy plan preparation](docs/user_guide/bx_planning.md)
-   * [Intra-procedural tracking of targets](docs/user_guide/bx_tracking.md)
-   * [Troubleshooting](docs/user_guide/troubleshooting.md)
+   * [Biopsy plan preparation](docs/user_guide/bx_planning)
+   * [Intra-procedural tracking of targets](docs/user_guide/bx_tracking)
+   * [Troubleshooting](docs/user_guide/troubleshooting)
 * [Frequently Asked Questions](docs/faq)
 
