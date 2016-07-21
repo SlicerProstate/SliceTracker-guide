@@ -6,3 +6,13 @@ The workflow consists of the two phases: preparation of the biopsy plan and intr
 
 The goal of the **intra-procedural phase** is to provide assistance with the sampling of the tissue from the areas corresponding to the biopsy targets. As the first step of this phase, biopsy template needs to be registered to the patient image coordinate frame. Next, deformable registration is applied to register pre-procedural structural scan of the prostate to the intra-procedural image, enabling re-identification of the biopsy targets in the intra-procedural data. After that, with every subsequent image confirming the placement of the biopsy needle, registration is applied to update the locations of the targets to compensate for the intra-procedural motion and deformation of the prostate gland.
 
+### Prerequisites
+
+It is assumed that the operator
+* is familiar with the prostate anatomy
+* has basic training in 3D Slicer
+* has relevant expertise, or is working closely with the interventional radiologist who can interpret multi-parametric MRI
+
+Also, at the moment, this guide is targeting an operator that is working in the settings of the [Advanced Multi-modality Image Guided Operating suite (AMIGO)](http://ncigt.org/AMIGO) at the Brigham and Women's Hospital. We sacrificed the details related to some of the possibilities related to the usage of the module that are not applicable to the AMIGO procedures.
+
+
