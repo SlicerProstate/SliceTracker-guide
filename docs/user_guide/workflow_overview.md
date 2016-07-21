@@ -4,5 +4,5 @@ The workflow consists of the two main steps: preparation of the biopsy plan and 
 
 **Preparation step** is concerned with the processing of the multi-parametric MRI (mpMRI) obtained prior to the biopsy procedure. It includes segmentation of the prostate gland, correction of the intensity inhomogeneity (if endorectal coil was used during image acquisition), and identification of the biopsy targets.
 
-**Intra-procedural tracking** 
+**Intra-procedural tracking** allows to re-identify the biopsy targets identified in the pre-procedural imaging in the intra-procedural data. In order to do this, 
 
