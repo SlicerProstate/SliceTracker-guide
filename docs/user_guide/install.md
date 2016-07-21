@@ -27,3 +27,5 @@ Note that SliceTracker depends on several other extensions. When prompted, accep
 Once installation of SliceTracker and dependencies is completed, you will need to restart Slicer application to access the module.
 
 If installation was successful, you should be able to see SliceTracker module in the Slicer module list.
+
+![](../images/confirm_install.png)
