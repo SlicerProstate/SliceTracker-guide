@@ -6,8 +6,8 @@
    * [Upgrade](docs/user_guide/upgrade)
    * [Clinical procedure overview](docs/user_guide/clinical_overview.md)
    * [Workflow overview](docs/user_guide/workflow_overview.md)
-   * [Biopsy plan preparation](docs/user_guide/bx_planning)
-   * [Intra-procedural tracking of targets](docs/user_guide/bx_tracking)
+   * [Biopsy plan preparation](docs/user_guide/bx_planning.md)
+   * [Intra-procedural tracking of targets](docs/user_guide/bx_tracking.md)
    * [Troubleshooting](docs/user_guide/troubleshooting)
 * [Frequently Asked Questions](docs/faq)
 
