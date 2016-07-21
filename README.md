@@ -1,5 +1,4 @@
-![Alt text](SliceTracker/Resources/Icons/SliceTracker.png)
-
+![Alt text](SliceTracker.png)
 
 ### Overview
 
