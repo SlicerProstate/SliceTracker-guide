@@ -1,8 +1,8 @@
 # Workflow overview
 
-The workflow consists of the two main steps: preparation of the biopsy plan and intra-procedural tracking of the biopsy targets.
+The workflow consists of the two phases: preparation of the biopsy plan and intra-procedural tracking of the biopsy targets.
 
-**Preparation step** is concerned with the processing of the multi-parametric MRI (mpMRI) obtained prior to the biopsy procedure. It includes segmentation of the prostate gland, correction of the intensity inhomogeneity (if endorectal coil was used during image acquisition), and identification of the biopsy targets.
+**Preparation phase** is concerned with the processing of the multi-parametric MRI (mpMRI) obtained prior to the biopsy procedure. It includes segmentation of the prostate gland, correction of the intensity inhomogeneity (if endorectal coil was used during image acquisition), and identification of the biopsy targets.
 
-**Intra-procedural tracking** allows to re-identify the biopsy targets identified in the pre-procedural imaging in the intra-procedural data. In order to do this, 
+The goal of the **intra-procedural phase** is to provide assistance with the sampling of the tissue from the areas corresponding to the biopsy targets. As the first step of this phase, biopsy template needs to be registered to the patient image coordinate frame. Next, deformable registration is applied to register pre-procedural structural scan of the prostate to the intra-procedural image, enabling re-identification of the biopsy targets in the intra-procedural data. After that, with every subsequent image confirming the placement of the biopsy needle, registration is applied to update the locations of the targets to compensate for the intra-procedural motion and deformation of the prostate gland.
 
