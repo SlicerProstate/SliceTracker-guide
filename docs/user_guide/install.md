@@ -4,4 +4,4 @@ SliceTracker should be available as an extension in the nightly version of 3D Sl
 
 Download the latest nightly release for your platform from http://download.slicer.org.
 
-![](SliceTracker/docs/images/slicer_download.png)
+![](slicer_download.png)
