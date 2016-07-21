@@ -4,7 +4,7 @@
 * [User guide](docs/user_guide)
    * [Installation](docs/user_guide/install)
    * [Upgrade](docs/user_guide/upgrade)
-   * [Clinical procedure overview](docs/user_guide/clinical_overview)
+   * [Clinical procedure overview](docs/user_guide/clinical_overview.md)
    * [Workflow overview](docs/user_guide/workflow_overview)
    * [Biopsy plan preparation](docs/user_guide/bx_planning)
    * [Intra-procedural tracking of targets](docs/user_guide/bx_tracking)
