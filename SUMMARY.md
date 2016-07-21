@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README)
+* [Introduction](README.md)
 * [User guide](docs/user_guide)
    * [Installation](docs/user_guide/install)
    * [Upgrade](docs/user_guide/upgrade)
