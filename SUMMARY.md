@@ -6,6 +6,6 @@
    * [Initialization](docs/user_guide/init)
    * [Biopsy plan preparation](docs/user_guide/bx_planning.md)
    * [Intra-procedural tracking of targets](docs/user_guide/bx_tracking.md)
-   * [Troubleshooting](docs/user_guide/troubleshooting)
+   * [Troubleshooting](docs/user_guide/troubleshooting.md)
 * [Frequently Asked Questions](docs/faq)
 
