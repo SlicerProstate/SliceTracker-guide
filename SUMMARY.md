@@ -1,8 +1,4 @@
 * [Introduction](README.md)
- * [Purpose](docs/purpose.md)
- * [Target audience](docs/audience.md)
- * [Support](docs/support.md)
-* [Disclaimers](docs/disclaimers.md)
 * [Installation](docs/install.md)
 * [Workflow](docs/workflow_overview.md)
  * [Planning](docs/bx_planning.md)
