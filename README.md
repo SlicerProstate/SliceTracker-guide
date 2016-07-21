@@ -34,7 +34,7 @@ Please feel free to contact us for questions, feedback, suggestions, bugs, or yo
 
 ### Acknowledgments
 
-This work is supported in part by NIH grants 
+Development of SliceTracker is supported in part by the following NIH grants: 
 
 * P41 EB015898 National Center for Image Guided Therapy (NCIGT), http://ncigt.org
 * U24 CA180918 Quantitative Image Informatics for Cancer Research (QIICR), http://qiicr.org
