@@ -52,9 +52,16 @@ To annotate the data, first check the series of interest in the "Study selection
 
 ![](../images/mpreview.png)
 
-All of the series you selected will be loaded in the viewers, and shown in the same plane reformat. Once in the Segmentation tab, choose T2-weighted axial series as the Reference image. This will configure the Slicer viewer layout to show all of the series selected in the previous tab in the same reformat plane, with the scroll/zoom/pan is synchronized over the viewers. 
+All of the series you selected will be loaded in the viewers, and shown in the same plane reformat. Once in the Segmentation tab, choose T2-weighted axial series as the Reference image. This will configure the Slicer viewer layout as follows:
 
 ![](../images/viewers_configured.jpg)
+
+* all of the series selected in the previous tab are shown
+* each of the viewers is using the same reformat plane
+* scroll/zoom/pan is synchronized over the viewers
+* if one of the series is a dynamic series (such as Dynamic Contrast Enhanced (DCE) MRI), you can use the MultiVolumeExplorer panel to display the time curve at the mouse pointer location, and trigger cine mode for the series visualization.
+
+![](../images/dynamic_plot.png)
 
 Use "Add Structure" button to add a new structure you want to segment (you should at least segment the prostate ("Whole Gland" label in the structures list).
 
