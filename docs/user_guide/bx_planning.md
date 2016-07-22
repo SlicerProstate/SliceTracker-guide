@@ -54,6 +54,10 @@ To annotate the data, first check the series of interest in the "Study selection
 
 All of the series you selected will be loaded in the viewers, and shown in the same plane reformat. Once in the Segmentation tab, choose T2-weighted axial series as the Reference image. This will configure the Slicer viewer layout to show all of the series selected in the previous tab in the same reformat plane, with the scroll/zoom/pan is synchronized over the viewers. 
 
-![](../images/viewers-configured.png)
+![](../images/viewers_configured.jpg)
 
-Use "Add Structure" button to add a new structure you want to segment (you should at least segment the prostate ("Whole Gland" label in the structures list). 
+Use "Add Structure" button to add a new structure you want to segment (you should at least segment the prostate ("Whole Gland" label in the structures list).
+
+Click the Window Level effect button ![](../images/wl_icon.png). Update the window/level for each of the viewers as necessary.
+
+Click the Fiducials placement button, and 
