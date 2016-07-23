@@ -48,6 +48,8 @@ SliceTracker will conclude that all the pre-procedural data has been received af
 
 Once the pre-procedural data is received, you will be guided through the steps to perform data annotation. If you annotate the data for the first time, you will be prompted to enter you last name and confirm certain settings, for book-keeping purposes. Accept the defaults if unsure how to proceed.
 
+#### Display the series of interest
+
 To annotate the data, first check the series of interest in the "Study selection" tab. When done, proceed to the "Segmentation" tab. 
 
 ![](../images/mpreview.png)
@@ -63,8 +65,22 @@ All of the series you selected will be loaded in the viewers, and shown in the s
 
 ![](../images/dynamic_plot.png)
 
+#### Adjust window/level and place targets
+
 Use "Add Structure" button to add a new structure you want to segment (you should at least segment the prostate ("Whole Gland" label in the structures list).
 
 Click the Window Level effect button ![](../images/wl_icon.png). Update the window/level for each of the viewers as necessary.
 
-Click the Fiducials placement button, and 
+Click the Fiducials placement button in the Slicer toolbar, and place targets by clicking in the slice viewers.
+
+![](../images/fiducials_placement.png)
+
+TODO: check if the fiducials list should be explicitly selected after placing the targets!
+
+#### Segment prostate gland in T2-weighted series
+
+To segment the prostate gland, you will first contour the gland in every other slice using the Pencil tool ![](../images/pencil_effect.png). Activate the tool by clicking the Pencil icon. Start drawing by clicking the left mouse button. Close the contour by clicking the right mouse button or the Enter key. You can use Undo/Redo buttons if you made a mistake (after [this bug](https://github.com/SlicerProstate/mpReview/issues/135) is resolved).
+
+Once every other slice is contoured, use Dilation effect ![](../images/dilate_effect.png) to fill the empty slices. Click the Dilate icon, after that click Apply button.
+
+Once the prostate is segmented in T2-weighted series and the biopsy targets are localized, activate the Completion tab and click Save button. Once this is done, you will return to the SliceTracker and will wait for the intra-procedural DICOM data to continue with the workflow.
