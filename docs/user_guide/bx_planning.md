@@ -79,7 +79,7 @@ TODO: check if the fiducials list should be explicitly selected after placing th
 
 #### Segment prostate gland in T2-weighted series
 
-To segment the prostate gland, you will first contour the gland in every other slice using the Pencil tool ![](../images/pencil_effect.png). Activate the tool by clicking the Pencil icon. Start drawing by clicking the left mouse button. Close the contour by clicking the right mouse button or the Enter key. You can use Undo/Redo buttons if you made a mistake (after [this bug](https://github.com/SlicerProstate/mpReview/issues/135) is resolved).
+To segment the prostate gland, you will first contour the gland in every other slice using the Pencil tool ![](../images/pencil_effect.png). Activate the tool by clicking the Pencil icon. Start drawing by clicking the left mouse button. Close the contour by clicking the right mouse button or the Enter key. You can use Undo/Redo buttons ![](../images/undoredo_buttons.png) if you made a mistake (after [this bug](https://github.com/SlicerProstate/mpReview/issues/135) is resolved).
 
 Once every other slice is contoured, use Dilation effect ![](../images/dilate_effect.png) to fill the empty slices. Click the Dilate icon, after that click Apply button.
 
