@@ -9,7 +9,7 @@ The goal of the **intra-procedural phase** is to provide assistance with the sam
 ### Prerequisites
 
 It is assumed that the operator
-* is familiar with the prostate anatomy
+* is familiar with the prostate anatomy and its appearance in MRI (most importantly, on T2-weighted MRI)
 * has basic training in 3D Slicer
 * has relevant expertise, or is working closely with the interventional radiologist who can interpret multi-parametric MRI
 
