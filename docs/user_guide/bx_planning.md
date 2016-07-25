@@ -86,3 +86,8 @@ To segment the prostate gland, you will first contour the gland in every other s
 Once every other slice is contoured, use Dilation effect ![](../images/dilate_effect.png) to fill the empty slices. Click the Dilate icon, after that click Apply button.
 
 Once the prostate is segmented in T2-weighted series and the biopsy targets are localized, activate the Completion tab and click Save button. Once this is done, you will return to the SliceTracker and will wait for the intra-procedural DICOM data to continue with the workflow.
+
+#### Intensity inhomogeneity correction
+
+Upon completion of the pre-procedural data annotation, you will be prompted to respond whether endorectal coil was used during pre-procedural imaging. The use of endorectal coil can be recognized by enlarged round shape of the rectum, as shown in the image below.
+
