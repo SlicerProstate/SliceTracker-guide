@@ -21,7 +21,7 @@ For more details, please read SliceTracker user guide.
 
 ### Disclaimer
 
-SlicerTracker, same as 3D Slicer, is a research software. **SliceTracker is NOT a FDA-approved medical device**. It is not intended for clinical use. The user assumes full responsibility to comply with the appropriate regulations.  
+SlicerTracker, same as 3D Slicer, is a research software. **SliceTracker is NOT an FDA-approved medical device**. It is not intended for clinical use. The user assumes full responsibility to comply with the appropriate regulations.  
 
 ### Support
 
