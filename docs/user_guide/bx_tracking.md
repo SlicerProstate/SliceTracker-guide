@@ -39,9 +39,7 @@ Once z-frame registration is confirmed, and cover prostate image is acquired, th
 
 After coverage is confirmed, proceed with target re-identification by clicking "Track targets" button.
 
-To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon 
-
-![](../images/fiducials_placement.png). 
+To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon ![](../images/fiducialmode_icon.png). 
 
 Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. You will need to place points on multiple slices before the green outline appears.
 
