@@ -91,6 +91,8 @@ Once the prostate is segmented in T2-weighted series and the biopsy targets are 
 
 Upon completion of the pre-procedural data annotation, you will be prompted to respond whether endorectal coil was used during pre-procedural imaging. The use of endorectal coil can be recognized by enlarged round shape of the rectum, as shown in the image below.
 
-| <img src="../images/ecoil_apex.png" size="150"> | 1:0 |
+| <img src="../images/ecoil_apex.png" width="250"> | <img src="../images/ecoil_midgland.png" width="250" align="right"> |
 | -- | -- |
-| 0:2 | 1:2 |
+| Apex level. Characteristic "ears" of the coil wire loops.  | Mid-gland level. Enlarged air-filled round area arising from the air-filled balloon.|
+
+Once you confirm endorectal coil was used, inhomogeneity correction will be applied automatically, and the corrected image will be loaded into the viewer upon completion.
