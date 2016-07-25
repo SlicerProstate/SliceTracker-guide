@@ -69,5 +69,12 @@ You can use the following tools to verify registration accuracy:
 **If registration result is satisfactory**: Click "Approve", communicate the needle hole and insertion depth to the clinical lead.
 
 **If registration result is NOT satisfactory**, here is what you can try:
-* check different registration types (Rigid or Affine); if any of these is satisfactory - approve it.
-* move the target to a more suitable location. This can be done by double-clicking the corresponding target row in the target table, which will toggle target move mode. You can then scroll to the desired slice for the target, and place on the updated location.
+* _check different registration types (Rigid or Affine)_: if any of these is satisfactory - approve it.
+* _move the target to a more suitable location_: double-click the corresponding target row in the target table, which will toggle target move mode. You can then scroll to the desired slice for the target, and place on the updated location.
+* _re-do segmentation of the prostate and re-run registration_: this can be done by clicking "Retry" button. Note that this approach is most time-consuming.
+
+## Tracking targets in the needle confirmation images
+
+SliceTracker will detect arrival of new needle images automatically, and will alert the operator asking whether tracking should be done automatically for new images. SliceTracker will attempt to perform registration automatically, and will provide the same evaluation interface as for the cover prostate registration step. 
+
+When needle confirmation registration fails, this is most often due to very large motion of the prostate/patient. If such large motion is observed, it is advised that prostate is re-segmented in the needle confirmation image.
