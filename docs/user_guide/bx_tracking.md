@@ -42,9 +42,9 @@ After coverage is confirmed, proceed with target re-identification by clicking "
 To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon ![](../images/fiducials_placement.png). Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. You will need to place points on multiple slices before the green outline appears.
 
 Buttons in the module panel provide the following features:
-* ![](../../SliceTracker/Resources/Icons/icon_greenCheck.png): finish segmentation
-* ![](../../SliceTracker/Resources/Icons/icon_undo.png)/![](../../SliceTracker/Resources/Icons/icon_rendo.png): undo/redo pont placement
-* ![](../../SliceTracker/Resources/Icons/icon_cancelSegmentation.png): cancel segmentation
+* <img src="../../SliceTracker/Resources/Icons/icon-greenCheck.png" width="20">: finish segmentation
+* <img src="../../SliceTracker/Resources/Icons/icon-undo.png" width="20">  <img src="../../SliceTracker/Resources/Icons/icon-redo.png" width="20">: undo/redo pont placement
+* <img src="../../SliceTracker/Resources/Icons/icon-cancelSegmentation.png" width="20">: cancel segmentation
 
 After completing segmentation result, layout will automatically change to show the pre-procedural (planning) T2-weighted image on the left, and the intra-procedural image on the right, with the segmentation overlays in both viewers. Confirm that segmentations are similar (no large portions of the gland are skipped in either of the images).
 
