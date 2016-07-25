@@ -17,6 +17,8 @@ Capabilities of SliceTracker include:
 
 For more details, please read SliceTracker user guide.
 
+![](docs/images/needle_tracking.png)
+
 ### Disclaimer
 
 SlicerTracker, same as 3D Slicer, is a research software. **SliceTracker is NOT an FDA-approved medical device**. It is not intended for clinical use. The user assumes full responsibility to comply with the appropriate regulations.  
