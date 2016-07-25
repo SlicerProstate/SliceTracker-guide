@@ -1,5 +1,3 @@
 # Clinical procedure overview
 
-**TODO / TBD**
-
-also see http://ncigt.org/prostate-biopsy
+A quick summary of the clinical procedure, together with the references to the relevant publications, are available at the Prostate Project page of the National Center for Image Guided Therapy (NCIGT): http://ncigt.org/prostate-biopsy.
