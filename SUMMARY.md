@@ -11,6 +11,9 @@
     * [Load pre-procedural data](docs/user_guide/load_pre.md)
     * [Prepare pre-procedural data](docs/user_guide/prepare_pre.md)
    * [Intra-procedural tracking of targets](docs/user_guide/bx_tracking.md)
+    * [Z-frame calibration](docs/user_guide/zframe.md)
+    * [Initial target re-identification](docs/user_guide/initial_reg.md)
+    * [Needle confirmation and target tracking](docs/user_guide/needle_reg.md)
    * [Troubleshooting](docs/user_guide/troubleshooting)
 * [Frequently Asked Questions](docs/faq)
 
