@@ -39,13 +39,35 @@ Once z-frame registration is confirmed, and cover prostate image is acquired, th
 
 After coverage is confirmed, proceed with target re-identification by clicking "Track targets" button.
 
-To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon ![](../images/fiducials_placement.png). Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. You will need to place points on multiple slices before the green outline appears.
+To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon ![](../images/fiducialmode_icon.png). 
+
+Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. You will need to place points on multiple slices before the green outline appears.
 
 Buttons in the module panel provide the following features:
-* ![](../SliceTracker/Resources/Icons/icon_greenCheck.png): finish segmentation
-* ![](../SliceTracker/Resources/Icons/icon_undo.png)/![](../SliceTracker/Resources/Icons/icon_rendo.png): undo/redo point placement
-* ![](../SliceTracker/Resources/Icons/icon_cancelSegmentation.png): cancel segmentation
+* <img src="../../SliceTracker/Resources/Icons/icon-greenCheck.png" width="20">: finish segmentation
+* <img src="../../SliceTracker/Resources/Icons/icon-undo.png" width="20">  <img src="../../SliceTracker/Resources/Icons/icon-redo.png" width="20">: undo/redo pont placement
+* <img src="../../SliceTracker/Resources/Icons/icon-cancelSegmentation.png" width="20">: cancel segmentation
 
 After completing segmentation result, layout will automatically change to show the pre-procedural (planning) T2-weighted image on the left, and the intra-procedural image on the right, with the segmentation overlays in both viewers. Confirm that segmentations are similar (no large portions of the gland are skipped in either of the images).
 
 Click "Apply registration" once segmentation consistency is confirmed.
+
+Upon completion of registration, you will be presented with a layout showing biopsy plan on the left, and registration result on the right.
+
+**IMPORTANT**: Confirm the accuracy of registration with the clinical lead of the procedure!
+
+You can use the following tools to verify registration accuracy:
+* "Rock": slowly fade back and forth between the registered planning image and the cover prostate image.
+* "Flicker": quickly flip back and forth between the registered planning image and the cover prostate image.
+* "Reveal cursor" button: show mosaic of the registered planning image and the cover prostate image at the cursor location.
+
+| ![Biopsy template assembly (left) and z-frame. MR-visible capsules are of yellow color within a plexiglass enclosure.](../images/registration_evaluation.png) | ![Z-frame and needle template models before calibration ](../images/reveal_cursor.png) |
+| -- | -- |
+| User interface elements to support registration result evaluation. | Reveal cursor in action. |
+
+
+**If registration result is satisfactory**: Click "Approve", communicate the needle hole and insertion depth to the clinical lead.
+
+**If registration result is NOT satisfactory**, here is what you can try:
+* check different registration types (Rigid or Affine); if any of these is satisfactory - approve it.
+* move the target to a 
