@@ -8,6 +8,8 @@ To prepare the biopsy plan, you need to:
 
 We will walk you through those steps.
 
+**WARNING**: you must complete biopsy plan preparation before the intra-procedural images could be sent to SliceTracker!
+
 ### Creating a new case
 As the first step, create a new case with the "New case" button in the SliceTracker console. This will initialize the layout of the directories for the data, and will start the process of listening for the incoming DICOM images. 
 
