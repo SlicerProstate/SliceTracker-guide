@@ -1,2 +1,32 @@
 # Installation
 
+SliceTracker should be available as an extension in the nightly version of 3D Slicer, starting Jul 14. We always suggest that you use the latest (nightly) version of the software when you try it for the first time.
+
+Download the latest nightly release for your platform from http://download.slicer.org. 
+
+**Do NOT use installers tagged as "Stable Release"!**
+
+![](../images/slicer_download.png)
+
+After downloading, follow the installation procedure for your platform. 
+
+If you use Mac, make sure you move the Slicer application to the Applications folder on your computer before launching it!
+
+Once installed, open Extension Manager by clicking the icon as shown below.
+
+![](../images/extension_manager.png)
+
+Search for "SliceTracker" and install the extension by clicking the INSTALL button.
+
+![](../images/install_slicetracker.png)
+
+Note that SliceTracker depends on several other extensions. When prompted, accept installation of those.
+
+![](../images/install_dependencies.png)
+
+Once installation of SliceTracker and dependencies is completed, you will need to restart Slicer application to access the module.
+
+If installation was successful, you should be able to see SliceTracker module in the Slicer module list.
+
+![](../images/confirm_install.png)
+
