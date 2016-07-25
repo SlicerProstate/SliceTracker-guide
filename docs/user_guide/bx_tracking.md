@@ -70,4 +70,4 @@ You can use the following tools to verify registration accuracy:
 
 **If registration result is NOT satisfactory**, here is what you can try:
 * check different registration types (Rigid or Affine); if any of these is satisfactory - approve it.
-* move the target to a 
+* move the target to a more suitable location. This can be done by double-clicking the corresponding target row in the target table, which will toggle target move mode. You can then scroll to the desired slice for the target, and place on the updated location.
