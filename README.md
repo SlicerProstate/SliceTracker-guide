@@ -2,10 +2,10 @@
 
 ### Overview
 
-SliceTracker is a [3D Slicer](http://slicer.org) extension designed to support in-bore MRI-guided targeted prostate biopsy (MRgBx). SliceTracker was developed and tested to support transperineal MRgBx procedure in the [Advanced Multimodality Operating Suite (AMIGO)](http://www.brighamandwomens.org/research/amigo/default.aspx) at the Brigham and Women's Hospital, Boston. Its applicability to other types of procedures has not been evaluated.
+SliceTracker is a [3D Slicer](http://slicer.org) extension designed to support workflow of the in-bore MRI-guided targeted prostate biopsy (MRgBx). SliceTracker was developed and tested to support transperineal MRgBx procedure in the [Advanced Multimodality Operating Suite (AMIGO)](http://www.brighamandwomens.org/research/amigo/default.aspx) at the Brigham and Women's Hospital, Boston. Its applicability to other types of procedures has not been evaluated.
 
 Capabilities of SliceTracker include:
-* transparent receipt and parsing of the patient DICOM images
+* automatic receipt and parsing of the patient DICOM images
 * planning of the procedure (biopsy target localization)
 * calibration of the intra-procedural image frame of reference with the transperineal biopsy template
 * automated segmentation of the prostate gland
