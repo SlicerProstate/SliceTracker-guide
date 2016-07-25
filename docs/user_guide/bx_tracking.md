@@ -7,3 +7,10 @@ Intra-procedural phase of the workflow is driven by the intra-procedural image d
 
 ## Z-frame calibration
 
+Z-frame is a calibration device that consists of a plastic enclosure that attaches rigidly to the template assembly, and  8 elongated capsules containing liquid that gives bright signal in certain types of MR images. 
+
+Given the known configuration of these capsules and their appearance in the image, it is possible to align the known configuration with the corresponding image artifacts, and thus establish a transformation between the biopsy template and the scanner coordinate system.
+
+| ![Biopsy template and z-frame](../images/zframe.png) | 1:0 |
+| -- | -- |
+| 0:2 | 1:2 |
