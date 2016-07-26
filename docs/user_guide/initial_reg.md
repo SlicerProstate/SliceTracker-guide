@@ -1,6 +1,6 @@
 # Cover prostate registration and re-identification of the planned targets
 
-Once z-frame registration is confirmed, and cover prostate image is acquired, the grid of the needle paths of the template will be shown in overlay of the cover prostate image.
+Once z-frame registration is confirmed, and `CoverProstate` image is acquired, the grid of the needle paths of the template will be shown in overlay of the cover prostate image.
 
 **IMPORTANT**: Notify the clinical lead of the procedure once you reach this point. This is important to confirm coverage of the gland.
 
@@ -15,7 +15,7 @@ Buttons in the module panel provide the following features:
 * <img src="../../SliceTracker/Resources/Icons/icon-undo.png" width="20">  <img src="../../SliceTracker/Resources/Icons/icon-redo.png" width="20">: undo/redo pont placement
 * <img src="../../SliceTracker/Resources/Icons/icon-cancelSegmentation.png" width="20">: cancel segmentation
 
-After completing segmentation result, layout will automatically change to show the pre-procedural (planning) T2-weighted image on the left, and the intra-procedural image on the right, with the segmentation overlays in both viewers. Confirm that segmentations are similar (no large portions of the gland are skipped in either of the images).
+After completing segmentation result, layout will automatically change to show the pre-procedural (planning) T2-weighted image on the left, and the intra-procedural `CoverProstate` image on the right, with the segmentation overlays in both viewers. Confirm that segmentations are similar (no large portions of the gland are skipped in either of the images).
 
 Click "Apply registration" once segmentation consistency is confirmed.
 
@@ -24,9 +24,9 @@ Upon completion of registration, you will be presented with a layout showing bio
 **IMPORTANT**: Confirm the accuracy of registration with the clinical lead of the procedure!
 
 You can use the following tools to verify registration accuracy:
-* "Rock": slowly fade back and forth between the registered planning image and the cover prostate image.
-* "Flicker": quickly flip back and forth between the registered planning image and the cover prostate image.
-* "Reveal cursor" button: show mosaic of the registered planning image and the cover prostate image at the cursor location.
+* "Rock": slowly fade back and forth between the registered planning image and the `CoverProstate` image.
+* "Flicker": quickly flip back and forth between the registered planning image and the `CoverProstate` image.
+* "Reveal cursor" button: show mosaic of the registered planning image and the `CoverProstate` image at the cursor location.
 
 | ![Biopsy template assembly (left) and z-frame. MR-visible capsules are of yellow color within a plexiglass enclosure.](../images/registration_evaluation.png) | ![Z-frame and needle template models before calibration ](../images/reveal_cursor.png) |
 | -- | -- |
