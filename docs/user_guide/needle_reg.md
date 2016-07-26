@@ -5,6 +5,6 @@ SliceTracker will detect arrival of new `Needle` images automatically, and will 
 When `Needle` image registration fails, this is most often due to very large motion of the prostate/patient. If such large motion is observed, it is advised that prostate is re-segmented in the `Needle` image.
 
 Once `Needle` registration is completed:
-* any updates to the hole/insertion depth for the individual targets will be indicated by bright red highlight of the corresponding cells in the target table. Previous location of the hole/depth can be obtained in tooltips for the updated cells.
+* any updates to the hole/insertion depth for the individual targets will be indicated by bright red highlight of the corresponding cells in the target table. Previous location of the hole/depth can be accessed in tooltips for the updated cells.
 * the clinical lead of the procedure will typically be interested in the location of the needle relative to the intended target. To help with this task, switch to the FourUp layout ![](../../SliceTracker/Resources/Icons/icon-four-up.png) and turn on crosshair ![](../../SliceTracker/Resources/Icons/icon-crosshair.png). Follow the needle track in one of the slice viewers while holding the Shift button. This will synchronize all viewers locations.
 
