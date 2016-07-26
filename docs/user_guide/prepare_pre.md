@@ -47,8 +47,8 @@ Upon completion of the pre-procedural data annotation, you will be prompted to r
 
 The use of endorectal coil can be recognized by enlarged round shape of the rectum, as shown in the image below.
 
-:-------------------------:|:-------------------------:|
-| ![](../images/ecoil_apex.png)|![](../images/ecoil_midgland.png)|
+| ![](../images/ecoil_apex.png) | ![](../images/ecoil_midgland.png) |
+| -- | -- |
 | Apex level. Characteristic "ears" of the coil wire loops.  | Mid-gland level. Enlarged air-filled round area arising from the air-filled balloon.|
 
 Once you confirm endorectal coil was used, inhomogeneity correction will be applied automatically, and the corrected image will be loaded into the viewer upon completion.
