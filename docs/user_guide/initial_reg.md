@@ -17,9 +17,13 @@ You will need to place points on multiple slices before the green outline appear
 ![](../images/volumeclip_contour.png)
 
 Buttons in the module panel provide the following features:
-* <img src="../../SliceTracker/Resources/Icons/icon-greenCheck.png" width="20">: finish segmentation
-* <img src="../../SliceTracker/Resources/Icons/icon-undo.png" width="20">  <img src="../../SliceTracker/Resources/Icons/icon-redo.png" width="20">: undo/redo point placement
-* <img src="../../SliceTracker/Resources/Icons/icon-cancelSegmentation.png" width="20">: cancel segmentation
+
+|<center>Button|Description|
+|--|--|
+|<center><img src="../../SliceTracker/Resources/Icons/icon-greenCheck.png" width="20">|finish segmentation|
+|<center><img src="../../SliceTracker/Resources/Icons/icon-undo.png" width="20">,<img src="../../SliceTracker/Resources/Icons/icon-redo.png" width="20">|undo/redo point placement|
+|<center><img src="../../SliceTracker/Resources/Icons/icon-cancelSegmentation.png" width="20">|cancel segmentation|
+
 
 After prostate segmentation has been completed, SliceTracker will decide based on the availability of pre-procedural image data about which steps to display next. 
 
