@@ -12,5 +12,5 @@ When you finished setting and renaming of targets, just click onto the button `D
 
 <center>![](../images/no_preop_finishing_prompt.png)
 
-After confirming that you are done with setting and renaming targets, SliceTracker will return to the `Overview` step and will wait for incoming `Needle` images.
+After confirming that you are done with setting and renaming targets, SliceTracker will switch to the overview mode and will wait for incoming `Needle` images.
 
