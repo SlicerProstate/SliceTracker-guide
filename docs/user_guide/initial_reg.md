@@ -30,8 +30,8 @@ Upon completion of registration, you will be presented with a layout showing bio
 **IMPORTANT**: Confirm the accuracy of registration with the clinical lead of the procedure!
 
 You can use the following tools to verify registration accuracy:
-* "Rock": slowly fade back and forth between the registered planning image and the `CoverProstate` image.
-* "Flicker": quickly flip back and forth between the registered planning image and the `CoverProstate` image.
+* "Rock" checkbox: slowly fade back and forth between the registered planning image and the `CoverProstate` image.
+* "Flicker" checkbox: quickly flip back and forth between the registered planning image and the `CoverProstate` image.
 * "Reveal cursor" button: show mosaic of the registered planning image and the `CoverProstate` image at the cursor location.
 
 | ![Biopsy template assembly (left) and z-frame. MR-visible capsules are of yellow color within a plexiglass enclosure.](../images/registration_evaluation.png) | ![Z-frame and needle template models before calibration ](../images/reveal_cursor.png) |
