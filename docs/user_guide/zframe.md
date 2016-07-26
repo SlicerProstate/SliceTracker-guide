@@ -8,14 +8,13 @@ Given the known configuration of these capsules and their appearance in the `ZFr
 | -- | -- |
 | Biopsy template assembly (left) and Z-frame. MR-visible capsules are of yellow color within a plexiglass enclosure. | Z-frame (yellow arrow) and needle tracks of the template (blue arrow) models before calibration. Red arrow points to the artifacts corresponding to the Z-frame in the `ZFrame` image slice. |
 
-Once `ZFrame` image is received, it will be automatically loaded and displayed. To perform Z-frame calibration, you will need to define the region of interest (ROI) in the image corresponding to the location of the Z-frame artifacts. ROI placement mode will be activated automatically once `ZFrame` image is loaded, and the mouse pointer icon  ![](../images/roi_icon.png) will reflect this. 
+Once `ZFrame` image is received, it will be automatically loaded and displayed. To perform Z-frame calibration, you will need to define the region of interest (ROI) in the image corresponding to the location of the Z-frame artifacts. 
 
-With the ROI mode enabled follow the steps shown below.
+ROI placement mode will be activated automatically once `ZFrame` image is loaded, and the mouse pointer icon  ![](../images/roi_icon.png) will reflect this. 
 
-:-------------------------:|:-------------------------:|:-------------------------:
-1.Step|2.Step|3.Step
-![](../images/zframe_center.png)|![](../images/zframe_corner.png)|![](../images/zframe_roi.png)
-Click once in the center of the group of bright dots corresponding to the Z-frame|Click once in the corner just outside that group|Make sure all dots are within the rectangular selection area
+With the ROI mode enabled, click once in the center of the group of bright dots corresponding to the Z-frame, and once in the corner just outside that group. Make sure all dots are within the rectangular selection area, as shown in the figure below (arrows indicate the center and corner where you would click to define the ROI).
+
+![](../images/zframe_roi.png)
 
 Once you confirm that all dots are within the ROI, click "Run ZFrame Registration" in the module control panel.
 
