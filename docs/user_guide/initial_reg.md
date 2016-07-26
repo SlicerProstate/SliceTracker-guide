@@ -4,9 +4,9 @@ Once Z-frame registration is confirmed, and `CoverProstate` image is acquired, t
 
 **IMPORTANT**: Notify the clinical lead of the procedure once you reach this point. This is important to confirm coverage of the gland.
 
-After coverage is confirmed, proceed with target re-identification by clicking "Track targets" button.
+After coverage confirmation, proceed with target re-identification by clicking "Track targets" button.
 
-To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon ![](../images/fiducialmode_icon.png). 
+To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon![](../images/fiducialmode_icon.png). 
 
 Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. 
 
