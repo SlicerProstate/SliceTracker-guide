@@ -1,6 +1,6 @@
 # Cover prostate registration and re-identification of the planned targets
 
-Once z-frame registration is confirmed, and `CoverProstate` image is acquired, the grid of the needle paths of the template will be shown in overlay of the cover prostate image.
+Once Z-frame registration is confirmed, and `CoverProstate` image is acquired, the grid of the needle paths of the template will be shown in overlay of the cover prostate image.
 
 **IMPORTANT**: Notify the clinical lead of the procedure once you reach this point. This is important to confirm coverage of the gland.
 
@@ -34,7 +34,7 @@ You can use the following tools to verify registration accuracy:
 * "Flicker" checkbox: quickly flip back and forth between the registered planning image and the `CoverProstate` image.
 * "Reveal cursor" button: show mosaic of the registered planning image and the `CoverProstate` image at the cursor location.
 
-| ![Biopsy template assembly (left) and z-frame. MR-visible capsules are of yellow color within a plexiglass enclosure.](../images/registration_evaluation.png) | ![Z-frame and needle template models before calibration ](../images/reveal_cursor.png) |
+| ![Biopsy template assembly (left) and Z-frame. MR-visible capsules are of yellow color within a plexiglass enclosure.](../images/registration_evaluation.png) | ![Z-frame and needle template models before calibration ](../images/reveal_cursor.png) |
 | -- | -- |
 | User interface elements to support registration result evaluation. | Reveal cursor in action. |
 
