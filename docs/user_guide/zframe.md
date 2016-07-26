@@ -1,6 +1,6 @@
 # Z-frame calibration
 
-Z-frame is a calibration device that consists of a plastic enclosure that attaches rigidly to the template assembly, and 7 elongated capsules containing liquid that gives bright signal in certain types of MR images. 
+Z-frame is a calibration device that consists of a plastic enclosure that attaches rigidly to the template assembly (see figure below), and 7 elongated capsules containing liquid that gives bright signal in certain types of MR images. 
 
 Given the known configuration of these capsules and their appearance in the `ZFrame` image, it is possible to align the known configuration with the corresponding image artifacts, and thus establish a transformation between the biopsy template and the scanner coordinate system.
 
