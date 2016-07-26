@@ -21,7 +21,11 @@ Buttons in the module panel provide the following features:
 * <img src="../../SliceTracker/Resources/Icons/icon-undo.png" width="20">  <img src="../../SliceTracker/Resources/Icons/icon-redo.png" width="20">: undo/redo point placement
 * <img src="../../SliceTracker/Resources/Icons/icon-cancelSegmentation.png" width="20">: cancel segmentation
 
-After completing segmentation, layout will automatically change to show the pre-procedural (planning) T2-weighted image on the left, and the intra-procedural `CoverProstate` image on the right, with the segmentation outline in overlays in both viewers. Confirm that segmentations are similar (no large portions of the gland are skipped in either of the images).
+After prostate segmentation has been completed, SliceTracker will decide based on the availability of pre-procedural image data about which steps to display next. 
+
+**IMPORTANT**: if no pre-procedural image data is available (see step `Continue without preop`)
+
+If pre-procedural image data is available, the layout will automatically change to show the pre-procedural (planning) T2-weighted image on the left, and the intra-procedural `CoverProstate` image on the right. Both viewers will show the segmentation outline as overlays. Confirm that segmentations are similar (no large portions of the gland are skipped in either of the images).
 
 Click "Apply registration" once segmentation consistency is confirmed.
 
