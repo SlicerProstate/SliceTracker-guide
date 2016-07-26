@@ -8,7 +8,13 @@ After coverage is confirmed, proceed with target re-identification by clicking "
 
 To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon ![](../images/fiducialmode_icon.png). 
 
-Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. You will need to place points on multiple slices before the green outline appears.
+Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. 
+
+![](../images/volumeclip_points.png)
+
+You will need to place points on multiple slices before the green outline appears.
+
+![](../images/volumeclip_contour.png)
 
 Buttons in the module panel provide the following features:
 * <img src="../../SliceTracker/Resources/Icons/icon-greenCheck.png" width="20">: finish segmentation
