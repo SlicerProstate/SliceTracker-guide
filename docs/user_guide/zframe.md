@@ -16,7 +16,7 @@ With the ROI mode enabled follow the steps shown below.
 
 | Step 1 | Step 2 | Step 3 |
 | -- | -- | -- |
-| [](../images/zframe_center.png) | ![](../images/zframe_corner.png) | ![](../images/zframe_roi.png) |
+| ![](../images/zframe_center.png) | ![](../images/zframe_corner.png) | ![](../images/zframe_roi.png) |
 | Click once in the center of the group of bright dots corresponding to the Z-frame | Click once in the corner just outside that group | Make sure all dots are within the rectangular selection area |
 
 Once you confirm that all dots are within the ROI, click "Run ZFrame Registration" in the module control panel.
