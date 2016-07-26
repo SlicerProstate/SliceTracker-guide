@@ -1,6 +1,10 @@
 # Tracking targets in the needle confirmation images
 
-SliceTracker will detect arrival of new `Needle` images automatically, and will alert the operator asking whether tracking should be done automatically for new images. SliceTracker will attempt to perform registration automatically, and will provide the same evaluation interface as for the cover prostate registration step. 
+If a new `Needle` image arrives while SliceTracker is in the overview mode, it will detect arrival of new `Needle` images automatically, and will prompt the operator asking whether tracking should be done automatically for new images.
+
+![](../images/new_needle_notification.png)
+
+SliceTracker will attempt to perform registration automatically, and will provide the same evaluation interface as for the cover prostate registration step. 
 
 When `Needle` image registration fails, this is most often due to very large motion of the prostate/patient. If such large motion is observed, it is advised that prostate is re-segmented in the `Needle` image.
 
