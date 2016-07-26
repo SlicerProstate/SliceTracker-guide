@@ -23,7 +23,8 @@ Buttons in the module panel provide the following features:
 
 After prostate segmentation has been completed, SliceTracker will decide based on the availability of pre-procedural image data about which steps to display next. 
 
-**IMPORTANT**: if no pre-procedural image data is available (see step `Continue without preop`)
+**IMPORTANT**: if no pre-procedural image data is available (see step [Continue without preop](docs/user_guide/continue_without_preop.md))
+
 
 If pre-procedural image data is available, the layout will automatically change to show the pre-procedural (planning) T2-weighted image on the left, and the intra-procedural `CoverProstate` image on the right. Both viewers will show the segmentation outline as overlays. Confirm that segmentations are similar (no large portions of the gland are skipped in either of the images).
 
