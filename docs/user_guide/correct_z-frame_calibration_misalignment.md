@@ -17,9 +17,9 @@ In the lower left corner of the main Slicer user interface you will find a colla
 
 The image below shows where to find the slice index of the current slice. 
 
-**NOTE:** Make sure to move the cursor within the current slice view, so that the Data Probe module gets updated according to it. The `Data Probe` module will only display values if the cursor is inside that slice view.
-
 <center>![](../images/zframe_dataprobe_slice_index.png)
+
+**NOTE:** Make sure to move the cursor within the current slice view, so that the Data Probe module gets updated according to it. The `Data Probe` module will only display values if the cursor is inside that slice view.
 
 Once you are done with setting start/end index manually, click "Run ZFrame Registration" in the module control panel and continue with [Z-frame calibration](zframe.md) 
 
