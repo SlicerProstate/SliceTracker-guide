@@ -29,6 +29,6 @@ Upon Z-frame calibration has finished, the 3D viewer will show the co-registered
 
 ![](../images/zframe_verification.png)
 
-If Z-frame calibration is misaligned see [Correct Z-frame calibration misalignment](correct_z-frame_calibration_misalignment.md)
+In case of a Z-frame calibration misalignment see [Correct Z-frame calibration misalignment](correct_z-frame_calibration_misalignment.md)
 
 You must confirm registration accuracy by clicking "Confirm registration accuracy" button in the SliceTracker panel in order to proceed with the next steps of the workflow.
