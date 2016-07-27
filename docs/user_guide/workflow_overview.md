@@ -15,6 +15,6 @@ It is assumed that the operator
 * has basic training in 3D Slicer
 * has relevant expertise, or is working closely with the interventional radiologist who can interpret multi-parametric MRI
 
-At the moment, this guide is targeting an operator that is working in the settings of the [Advanced Multi-modality Image Guided Operating suite (AMIGO)](http://ncigt.org/AMIGO) at the Brigham and Women's Hospital. We sacrificed the details related to some of the possibilities related to the usage of the module that are not applicable to the AMIGO procedures.
+At the moment, this guide is targeting an operator that is working in the settings of the [Advanced Multi-modality Image Guided Operating suite (AMIGO)](http://ncigt.org/AMIGO) at the Brigham and Women's Hospital. This guide may not cover some of the details related to the usage of the module that are not applicable during AMIGO procedures.
 
 
