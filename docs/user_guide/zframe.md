@@ -27,4 +27,6 @@ Once Z-frame calibration is completed, 3D viewer will show the co-registered pos
 
 ![](../images/zframe_verification.png)
 
+If Z-frame calibration is misaligned see section [Correct Z-frame calibration misalignment](correct_z-frame_calibration_misalignment.md)
+
 You must confirm registration accuracy by clicking "Confirm registration accuracy" button in the SliceTracker panel in order to proceed with the next steps of the workflow.
