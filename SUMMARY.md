@@ -12,7 +12,7 @@
        * [Prepare pre-procedural data](docs/user_guide/prepare_pre.md)
    * [Intra-procedural tracking of targets](docs/user_guide/bx_tracking.md)
        * [Z-frame calibration](docs/user_guide/zframe.md)
-           * Correct Z-frame calibration misalignment
+           * [Correct Z-frame calibration misalignment](docs/user_guide/correct_z-frame_calibration_misalignment.md)
        * [Target initialization](docs/user_guide/targets.md)
            * [Re-identification of planned targets](docs/user_guide/initial_reg.md)
            * [Target initialization without pre-procedural data](docs/user_guide/continue_without_preop.md)
