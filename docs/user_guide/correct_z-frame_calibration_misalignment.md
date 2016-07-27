@@ -2,14 +2,15 @@
 
 In case of the Z-frame model not properly aligned with the Z-frame image artifacts, you will need to manually set the slice range where the Z-frame calibration runs on. The following screenshot shows such a misalignment.
 
-![](../images/zframe_misaligned.png)
+| ![](../images/zframe_misaligned.png) |
+| -- |
+| Left: yellow outlines corresponding to the intersections of the Z-frame model with the image do not line up with the Z-frame artifacts. Right: 3D view confirms lack of alignment. |
 
 In order to set the manual start/end indexes, you will need to check "Use manual start/end indexes" as displayed below.
 
 <center>![](../images/zframe_calibration_manual_start_end.png)
 
-## Figuring out the slice index by using the `Data Probe` module
-In the lower left corner of the main Slicer user interface you will find a collapsible button "Data Probe". This module can be used to figure out the start and end index of the Z-frame image artifacts.
+To determine the index of the slice shown in the viewer, you can use the "Data Probe" module. In the lower left corner of the main Slicer user interface you will find a collapsible button "Data Probe". This module can be used to figure out the start and end index of the Z-frame image artifacts.
 
 |Start index: |Scroll to the first slice, where all artifacts are clearly visible (7 white dots)|
 |--|--|
