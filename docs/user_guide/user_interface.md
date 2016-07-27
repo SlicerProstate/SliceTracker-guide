@@ -8,7 +8,7 @@ The overview mode allows user to create/load cases, trigger target tracking and 
 | User Interface Element | Description |
 | -- | -- |
 | Case/patient watch box | Displays information about the current patient, pre-procedural and current study |
-| View options bar | Provides buttons for controlling the visibility of annotations, crosshair, Z-frame model, grid and computed needle path model. All supported layouts are available through buttons and additional to that the `WindowLevelEffect` for changing the window level with respect to fore -and background is included. (![View options bar](../images/view_options.png) for a detailed description) |
+| View options bar | Provides buttons for controlling the visibility of annotations, crosshair, Z-frame model, grid and computed needle path model. All supported layouts are available through buttons and additional to that the `WindowLevelEffect` for changing the window level with respect to fore -and background is included. ![View options bar](../images/view_options.png) |
 | Case directory settings area | This area includes a directory selector which represents the root directory for all cases. Furthermore when starting/loading a case, all directory information to that case are displayed in the directory watch box below the `Cases Root Directory` directory selector. |
 | New/open case action buttons | Action buttons for creating a new case or loading/continuing an existing case. |
 | Target table | Once a case has been loaded and pre-procedural data has been processed, all set targets will be listed in that table. Additional to that, information about cursor distance, grid hole and depth for needle insertion are computed. |
