@@ -12,4 +12,6 @@ To contribute your feedback, you can initiate a discussion for a specific paragr
 
 Once you post your feedback, developers of this guide will receive automatic notifications, and will respond to your suggestions or concerns.
 
+Note that you will need to sign in before you can participate in a discussion (gitbook accepts Facebook, Twitter, Google and Github authentication).
+
 
