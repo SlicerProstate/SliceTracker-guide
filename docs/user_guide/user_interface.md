@@ -16,9 +16,9 @@ The overview mode allows user to create/load cases, trigger target tracking and 
 | Intra-procedural image selection | As soon as intra-procedural images are received and loaded, they will appear in that selector. Colors indicate the availability of registration results. Images can only be skipped in specific circumstances. `Cover Prostate` and `Cover Template` images cannot be skipped since they are essential for the whole process of doing registration. |
 | Case/target tracking action buttons | Divided into three buttons this area allows the user to initiate the tracking of targets, closing a case (can be continued) or complete a case (can only be opened in readonly) |
 
-<a name="viewOptionsBar"/>
-### View options bar
 
+### View options bar
+<a name="viewOptionsBar"/>
 ![](../images/view_options.png)
 </a>
 ## Segmentation
