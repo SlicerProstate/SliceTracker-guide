@@ -39,6 +39,7 @@ Development of SliceTracker is supported in part by the following NIH grants:
 
 * P41 EB015898 National Center for Image Guided Therapy (NCIGT), http://ncigt.org
 * U24 CA180918 Quantitative Image Informatics for Cancer Research (QIICR), http://qiicr.org
+* R01 CA111288 Enabling Technologies for MRI-guided prostate interventions
 
 ### References
 
