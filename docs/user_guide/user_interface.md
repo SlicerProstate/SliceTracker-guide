@@ -16,8 +16,9 @@ The overview mode allows user to create/load cases, trigger target tracking and 
 | Case/target tracking action buttons | Divided into three buttons this area allows the user to initiate the tracking of targets, closing a case (can be continued) or complete a case (can only be opened in readonly) |
 
 ## Segmentation
+For initiating target tracking a segmentation mask needs to be created which covers the area of the prostate. The image below describes the user interface elements of that step.
 
-
+![](../images/segmentation_interface.png)
 ## Registration evaluation 
 
 
