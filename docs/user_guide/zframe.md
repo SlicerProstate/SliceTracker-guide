@@ -27,6 +27,8 @@ Once Z-frame calibration is completed, 3D viewer will show the co-registered pos
 
 ![](../images/zframe_verification.png)
 
+You must confirm registration accuracy by clicking "Confirm registration accuracy" button in the SliceTracker panel in order to proceed with the next steps of the workflow.
+
 
 ## Z-frame model misaligned with Z-frame image artifacts?
 
@@ -46,6 +48,3 @@ End index: Scroll to the very last slice, where all artifacts are clearly visibl
 The image below shows where to find the slice index of the current slice. **NOTE:** Make sure to move the cursor within the current slice view, so that the Data Probe module is updated according to it. The Date Probe module will only display values if the cursor is inside that slice view.
 
 ![](../images/zframe_dataprobe_slice_index.png)
-
-You must confirm registration accuracy by clicking "Confirm registration accuracy" button in the SliceTracker panel in order to proceed with the next steps of the workflow.
-
