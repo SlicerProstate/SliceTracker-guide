@@ -18,5 +18,5 @@ The image below shows where to find the slice index of the current slice. **NOTE
 
 ![](../images/zframe_dataprobe_slice_index.png)
 
-
+Once you are done with setting start/end index manually, click "Run ZFrame Registration" in the module control panel and continue with [Z-frame calibration](zframe.md#35) 
 
