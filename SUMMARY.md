@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* User guide
+* [User guide](docs/user_guide/opening.md)
    * [Installation](docs/user_guide/install.md)
    * [Upgrade](docs/user_guide/upgrade.md)
    * [Clinical procedure overview](docs/user_guide/clinical_overview.md)
