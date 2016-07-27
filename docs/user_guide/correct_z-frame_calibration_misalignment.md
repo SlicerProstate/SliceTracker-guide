@@ -8,7 +8,7 @@ In order to set the manual start/end indexes, you will need to check "Use manual
 
 <center>![](../images/zframe_calibration_manual_start_end.png)
 
-## Figuring out the slice index with the `Data Probe` module
+## Figuring out the slice index by using the `Data Probe` module
 In the lower left corner of the main Slicer user interface you will find a collapsible button "Data Probe". This module can be used to figure out the start and end index of the Z-frame image artifacts.
 
 |Start index: |Scroll to the first slice, where all artifacts are clearly visible (7 white dots)|
