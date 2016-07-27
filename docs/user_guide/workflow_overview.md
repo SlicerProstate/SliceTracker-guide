@@ -14,6 +14,7 @@ It is assumed that the operator
 * is familiar with the prostate anatomy and its appearance in MRI (most importantly, on T2-weighted MRI)
 * has basic training in 3D Slicer
 * has relevant expertise, or is working closely with the interventional radiologist who can interpret multi-parametric MRI
+* is familiar with the clinical workflow of the MRgBx procedure
 
 At the moment, this guide is targeting an operator that is working in the settings of the [Advanced Multi-modality Image Guided Operating suite (AMIGO)](http://ncigt.org/AMIGO) at the Brigham and Women's Hospital. This guide may not cover some of the details related to the usage of the module that are not applicable during AMIGO procedures.
 
