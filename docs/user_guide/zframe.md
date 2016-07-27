@@ -14,7 +14,6 @@ Given the known configuration of these capsules and their appearance in the `ZFr
 
 Once `ZFrame` image is received, it will be automatically loaded and displayed. To perform Z-frame calibration, you will need to define the region of interest (ROI) in the image corresponding to the location of the Z-frame artifacts. 
 
-### ROI placement
 After `ZFrame` image is loaded, ROI placement mode will be activated automatically, which is indicated by the ![](../images/roi_icon.png) cursor. Follow the steps shown below.
 
 | Step 1 | Step 2 | Step 3 |
@@ -22,8 +21,7 @@ After `ZFrame` image is loaded, ROI placement mode will be activated automatical
 | ![](../images/zframe_center.png) | ![](../images/zframe_corner.png) | ![](../images/zframe_roi.png) |
 | Click once in the center of the group of bright dots corresponding to the Z-frame | Click once in the corner just outside that group | Make sure all dots are within the rectangular selection area |
 
-### Confirm ROI coverage
-After confirming that all dots are within the ROI, click "Run ZFrame Registration" in the module control panel.
+After confirming that all dots are within the ROI, you will need to execute the Z-frame calibration by clicking "Run ZFrame Registration" in the module control panel.
 
 Upon Z-frame calibration has finished, the 3D viewer will show the co-registered position of the `ZFrame` image. 
 
@@ -31,8 +29,6 @@ Upon Z-frame calibration has finished, the 3D viewer will show the co-registered
 
 ![](../images/zframe_verification.png)
 
-If Z-frame calibration is misaligned see section [Correct Z-frame calibration misalignment](correct_z-frame_calibration_misalignment.md)
-
-###Confirmation of registration accuracy 
+If Z-frame calibration is misaligned see [Correct Z-frame calibration misalignment](correct_z-frame_calibration_misalignment.md)
 
 You must confirm registration accuracy by clicking "Confirm registration accuracy" button in the SliceTracker panel in order to proceed with the next steps of the workflow.
