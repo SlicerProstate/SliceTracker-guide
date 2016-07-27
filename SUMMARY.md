@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [User guide](docs/user_guide/opening.md)
    * [Installation](docs/user_guide/install.md)
-   * User Interface
+   * [User Interface](docs/user_guide/user_interface.md)
    * [Frequently Asked Questions](docs/faq)
    * [Upgrade](docs/user_guide/upgrade.md)
    * [Clinical procedure overview](docs/user_guide/clinical_overview.md)
