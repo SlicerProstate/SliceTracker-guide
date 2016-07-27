@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [User guide](docs/user_guide/opening.md)
    * [Installation](docs/user_guide/install.md)
+   * [Frequently Asked Questions](docs/faq)
    * [Upgrade](docs/user_guide/upgrade.md)
    * [Clinical procedure overview](docs/user_guide/clinical_overview.md)
    * [Workflow overview](docs/user_guide/workflow_overview.md)
@@ -18,5 +19,4 @@
        * [Needle confirmation and target tracking](docs/user_guide/needle_reg.md)
    * [Troubleshooting](docs/user_guide/troubleshooting.md)
    * User Interface
-* [Frequently Asked Questions](docs/faq)
 
