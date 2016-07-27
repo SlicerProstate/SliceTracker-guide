@@ -6,17 +6,18 @@ In case of the Z-frame model not properly aligned with the Z-frame image artifac
 
 In order to set the manual start/end indexes, you will need to check "Use manual start/end indexes" as displayed below.
 
-![](../images/zframe_calibration_manual_start_end.png)
+<center>![](../images/zframe_calibration_manual_start_end.png)
 
-## How to figure out slice index
+## Figuring out the slice index with the `Data Probe` module
 In the lower left corner of the main Slicer user interface you will find a collapsible button "Data Probe". This module can be used to figure out the start and end index of the Z-frame image artifacts.
 
-Start index: Scroll to the very first slice, where all artifacts are clearly visible (8 white dots)
-End index: Scroll to the very last slice, where all artifacts are clearly visible (8 white dots)
+|Start index: |Scroll to the first slice, where all artifacts are clearly visible (7 white dots)|
+|--|--|
+|**End index:** | **Scroll to the last slice, where all artifacts are clearly visible (7 white dots) **|
 
-The image below shows where to find the slice index of the current slice. **NOTE:** Make sure to move the cursor within the current slice view, so that the Data Probe module is updated according to it. The Date Probe module will only display values if the cursor is inside that slice view.
+The image below shows where to find the slice index of the current slice. **NOTE:** Make sure to move the cursor within the current slice view, so that the Data Probe module gets updated according to it. The `Data Probe` module will only display values if the cursor is inside that slice view.
 
-![](../images/zframe_dataprobe_slice_index.png)
+<center>![](../images/zframe_dataprobe_slice_index.png)
 
 Once you are done with setting start/end index manually, click "Run ZFrame Registration" in the module control panel and continue with [Z-frame calibration](zframe.md) 
 
