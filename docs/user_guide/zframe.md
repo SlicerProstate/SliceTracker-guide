@@ -22,9 +22,10 @@ After `ZFrame` image is loaded, ROI placement mode will be activated automatical
 | ![](../images/zframe_center.png) | ![](../images/zframe_corner.png) | ![](../images/zframe_roi.png) |
 | Click once in the center of the group of bright dots corresponding to the Z-frame | Click once in the corner just outside that group | Make sure all dots are within the rectangular selection area |
 
+### Confirm ROI coverage
 After confirming that all dots are within the ROI, click "Run ZFrame Registration" in the module control panel.
 
-Upon Z-frame calibration finished, the 3D viewer will show the co-registered position of the `ZFrame` image. 
+Upon Z-frame calibration has finished, the 3D viewer will show the co-registered position of the `ZFrame` image. 
 
 **IMPORTANT**: Verify that Z-frame calibration was completed correctly by confirming the alignment of the Z-frame model with the Z-frame image artifacts, both in 2D and 3D views. In the 2D view, intersections of the Z-frame model with the image will be indicated by yellow outlines. Those must closely follow the bright artifacts of the Z-frame, as shown in the figure below. If you are unsure, please confirm with the clinical lead of the procedure!
 
