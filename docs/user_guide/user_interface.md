@@ -19,7 +19,14 @@ The overview mode allows user to create/load cases, trigger target tracking and 
 For initiating target tracking a segmentation mask needs to be created which covers the area of the prostate. The image below describes the user interface elements of that step.
 
 ![](../images/segmentation_interface.png)
+
 ## Registration evaluation 
+| User Interface Element | Description |
+| -- | -- |
+| Registration type buttons | |
+| Visual effects settings area| |
+| | |
+![](../images/evaluation_interface.png)
 
 
 
