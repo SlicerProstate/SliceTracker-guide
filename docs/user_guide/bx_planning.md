@@ -8,4 +8,4 @@ To prepare the biopsy plan, you need to:
 
 We will walk you through those steps.
 
-**WARNING**: you must complete biopsy plan preparation before the intra-procedural images could be sent to SliceTracker!
+**WARNING**: If you have pre-procedural data that will be used for biopsy target placement, you must complete biopsy plan preparation before the intra-procedural images could be sent to SliceTracker!
