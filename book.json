@@ -4,7 +4,7 @@
     "pluginsConfig": {
         "autocover": {
             "font": {
-                "size": null,
+                "size": 32,
                 "family": "Impact",
                 "color": "#FFF"
             },
