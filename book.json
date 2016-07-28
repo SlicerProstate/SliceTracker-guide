@@ -1,4 +1,4 @@
-{   
+{   "plugins" : ["ga"],
     "title": "SliceTracker manual",
     "author": ["Andrey Fedorov", "Christian Herz"],
     "pluginsConfig": {
@@ -15,6 +15,9 @@
             "background": {
                 "color": "#FF"
             }
+        },
+        "ga":{
+           "token" : "UA-44852938-5"
         }
     }
 }
