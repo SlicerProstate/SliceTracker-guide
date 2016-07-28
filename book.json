@@ -1,4 +1,4 @@
-{   "plugins" : ["autocover"],
+{   
     "title": "SliceTracker manual",
     "author": ["Andrey Fedorov", "Christian Herz"],
     "pluginsConfig": {
