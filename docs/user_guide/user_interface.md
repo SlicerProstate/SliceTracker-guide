@@ -8,7 +8,7 @@ Once SliceTracker is opened, note the purpose of the various components of the a
 
 1. **main toolbar**: this are contains shortcut buttons for some of the general purpose functions of 3D Slicer
 
-2. **module control panel**: this is the area where various controls and user interface elements for SliceTracker are located. These are described in the next section.
+2. **module control panel**: this is the area where various controls and user interface elements for SliceTracker are located. These are described in detail in the next section.
 
 3. **viewers**: configuration of this area, which contains combinations of 2-d/3-d viewer sub-areas, will be updated automatically depending on the specific step of teh workflow. 
 
