@@ -29,9 +29,9 @@ Please feel free to contact us for questions, feedback, suggestions, bugs, or yo
 
 * [Andrey Fedorov](https://github.com/fedorov) fedorov@bwh.harvard.edu
 
-* Christian Herz cherz@bwh.harvard.edu
+* [Christian Herz](https://github.com/che85) cherz@bwh.harvard.edu or christianherz1985@gmail.com
 
-* Peter Behringer peterbehringer@gmx.de
+* [Peter Behringer](https://github.com/PeterBehringer) peterbehringer@gmx.de
 
 ### Acknowledgments
 
