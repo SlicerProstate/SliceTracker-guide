@@ -2,9 +2,8 @@
 
 * [Introduction](README.md)
 * [User guide](docs/user_guide/opening.md)
-   * [Installation](docs/user_guide/install.md)
-   * [User Interface](docs/user_guide/user_interface.md)
-   * [Upgrade](docs/user_guide/upgrade.md)
+   * [Installation and upgrade](docs/user_guide/install.md)
+   * [User interface](docs/user_guide/user_interface.md)
    * [Clinical procedure overview](docs/user_guide/clinical_overview.md)
    * [Workflow overview](docs/user_guide/workflow_overview.md)
    * [Biopsy plan preparation](docs/user_guide/bx_planning.md)
