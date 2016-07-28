@@ -6,15 +6,15 @@
         "autocover": {
             "font": {
                 "size": 32,
-                "family": "Impact",
-                "color": "#FFF"
+                "family": "Helvetica",
+                "color": "#000000"
             },
             "size": {
                 "w": 1800,
                 "h": 2360
             },
             "background": {
-                "color": "#09F"
+                "color": "#FFFFFF"
             }
         }
     }
