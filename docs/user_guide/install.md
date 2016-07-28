@@ -29,4 +29,8 @@ Once installation of SliceTracker and dependencies is completed, you will need t
 If installation was successful, you should be able to see SliceTracker module in the Slicer module list.
 
 ![](../images/confirm_install.png)
+# Upgrade
+It is currently not possible to upgrade SliceTracker without upgrading the 3D Slicer application.
+
+If you need to upgrade the software, download the latest nightly release of 3D Slicer and install the SliceTracker extension following [installation instructions](docs/user_guide/install.md).
 
