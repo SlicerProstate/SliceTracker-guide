@@ -4,7 +4,6 @@
 * [User guide](docs/user_guide/opening.md)
    * [Installation](docs/user_guide/install.md)
    * [User Interface](docs/user_guide/user_interface.md)
-   * [Frequently Asked Questions](docs/faq)
    * [Upgrade](docs/user_guide/upgrade.md)
    * [Clinical procedure overview](docs/user_guide/clinical_overview.md)
    * [Workflow overview](docs/user_guide/workflow_overview.md)
@@ -19,4 +18,4 @@
            * [Target initialization without pre-procedural data](docs/user_guide/continue_without_preop.md)
        * [Needle confirmation and target tracking](docs/user_guide/needle_reg.md)
    * [Troubleshooting](docs/user_guide/troubleshooting.md)
-
+   * [Frequently Asked Questions](docs/faq)
