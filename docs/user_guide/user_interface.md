@@ -6,15 +6,15 @@ Once SliceTracker is opened, note the purpose of the various components of the a
 
 ![](../images/slicer_gui_overview.png)
 
-1. **main toolbar**: this are contains shortcut buttons for some of the general purpose functions of 3D Slicer
+1. **Main toolbar**: this area contains shortcut buttons for some of the general purpose functions of 3D Slicer
 
-2. **module control panel**: this is the area where various controls and user interface elements for SliceTracker are located. These are described in detail in the next section.
+2. **Module control panel**: this is the area where various controls and user interface elements for SliceTracker are located. These are described in detail in the next section.
 
-3. **viewers**: configuration of this area, which contains combinations of 2-d/3-d viewer sub-areas, will be updated automatically depending on the specific step of teh workflow. 
+3. **Viewers**: configuration of this area, which contains combinations of 2-d/3-d viewer sub-areas, will be updated automatically depending on the specific step of the workflow. 
 
-4. **DataProbe** panel: this area can be used to check the coordinates of the cursor and the number of the currently visible slice.
+4. **DataProbe panel**: this area can be used to check the coordinates of the cursor and the number of the currently visible slice.
 
-5. **progress reporting area**: in some steps of the workflow, this area will be used to report progress.
+5. **Progress reporting area**: in some steps of the workflow, this area will be used to report progress.
 
 
 ## SliceTracker interface overview
