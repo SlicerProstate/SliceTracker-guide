@@ -10,7 +10,7 @@ To set up SliceTracker in [AMIGO](http://www.brighamandwomens.org/research/amigo
 
 | Configuration parameter | Value |
 | -- | -- |
-| IP: | 172.22.99.144  |
+| IP | 172.22.99.144  |
 | Subnet Mask | 255.255.255.192 |
 | Default Gateway (router on OS X)| 172.22.99.129
 
