@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [User guide](docs/user_guide/opening.md)
    * [Installation and upgrade](docs/user_guide/install.md)
-       * Training
    * [User interface](docs/user_guide/user_interface.md)
    * [Clinical procedure overview](docs/user_guide/clinical_overview.md)
    * [Workflow overview](docs/user_guide/workflow_overview.md)
