@@ -23,7 +23,7 @@ Commonly DICOM data is send to port 104. Slicer is not allowed to start a stores
 
 ![](../images/port_forwarding.png)
 
-#### Check right port forwarding
+#### Check and ensure the right port to be forwarded
 
 1. Open web browser
 2. Enter the following ip: 192.168.1.1
