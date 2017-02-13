@@ -1,5 +1,7 @@
 # AMIGO-specific setup
 
+TODO: update
+
 To set up SliceTracker in [AMIGO](http://www.brighamandwomens.org/research/amigo/default.aspx), you will need to:
 * Connect the MR scanner network cable to the switch
 * Connect the to the computer running SlicerTracker to the switch
