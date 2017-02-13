@@ -20,6 +20,7 @@
        * [Needle confirmation and target tracking](docs/user_guide/needle_reg.md)
    * [Troubleshooting](docs/user_guide/troubleshooting.md)
    * [AMIGO-specific setup](docs/user_guide/amigo.md)
+   * [L1 Bay2 setup](docs/user_guide/l1bay2.md)
    * [Frequently Asked Questions](docs/faq)
 * [License](LICENSE.md)
 
