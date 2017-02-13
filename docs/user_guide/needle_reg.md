@@ -10,5 +10,5 @@ When `Needle` image registration fails, this is most often due to very large mot
 
 Once `Needle` registration is completed:
 * any updates to the hole/insertion depth for the individual targets will be indicated by bright red highlight of the corresponding cells in the target table. Previous location of the hole/depth can be accessed in tooltips for the updated cells.
-* the clinical lead of the procedure will typically be interested in the location of the needle relative to the intended target. To help with this task, switch to the FourUp layout ![](../images/icon-four-up.png) and turn on crosshair ![](../images/icon-crosshair.png). Follow the needle track in one of the slice viewers while holding the Shift button. This will synchronize all viewers locations.
+* the clinical lead of the procedure will typically be interested in the location of the needle relative to the intended target. To help with this task, switch to the FourUp layout ![](../images/Icons/icon-four-up.png) and turn on crosshair ![](../images/Icons/icon-crosshair.png). Follow the needle track in one of the slice viewers while holding the Shift button. This will synchronize all viewers locations.
 
