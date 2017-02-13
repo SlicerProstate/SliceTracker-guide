@@ -21,4 +21,6 @@
    * [Troubleshooting](docs/user_guide/troubleshooting.md)
    * [AMIGO-specific setup](docs/user_guide/amigo.md)
    * [Frequently Asked Questions](docs/faq)
+* [License](LICENSE.md)
+
 
