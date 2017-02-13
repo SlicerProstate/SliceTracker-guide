@@ -1,7 +1,12 @@
-{   
-    "plugins" : ["ga"],
+{
+    "plugins": [
+        "ga"
+    ],
     "title": "SliceTracker manual",
-    "author": ["Andrey Fedorov", "Christian Herz"],
+    "author": [
+        "Andrey Fedorov",
+        "Christian Herz"
+    ],
     "pluginsConfig": {
         "autocover": {
             "font": {
@@ -17,8 +22,8 @@
                 "color": "#FF"
             }
         },
-        "ga":{
-           "token" : "UA-44852938-5"
+        "ga": {
+            "token": "UA-44852938-5"
         }
     }
 }
