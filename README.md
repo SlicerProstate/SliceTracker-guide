@@ -1,4 +1,4 @@
-![Alt text](SliceTracker.png)
+![Alt text](Logo/SliceTracker.png)
 
 ### Overview
 
