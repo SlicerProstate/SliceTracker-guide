@@ -1,4 +1,5 @@
-{   "plugins" : ["ga"],
+{   
+    "plugins" : ["ga"],
     "title": "SliceTracker manual",
     "author": ["Andrey Fedorov", "Christian Herz"],
     "pluginsConfig": {
