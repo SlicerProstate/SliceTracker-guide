@@ -3,10 +3,7 @@
         "ga"
     ],
     "title": "SliceTracker manual",
-    "author": [
-        "Andrey Fedorov",
-        "Christian Herz"
-    ],
+    "author": "Andrey Fedorov, Christian Herz",
     "pluginsConfig": {
         "autocover": {
             "font": {
