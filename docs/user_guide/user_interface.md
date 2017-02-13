@@ -34,6 +34,14 @@ The overview mode allows user to create/load cases, trigger target tracking and 
 | Intra-procedural image selection | As soon as intra-procedural images are received and loaded, they will appear in that selector. Colors indicate the availability of registration results. Images can only be skipped in specific circumstances. `Cover Prostate` and `Cover Template` images cannot be skipped since they are essential for the whole process of doing registration. |
 | Case/target tracking action buttons | Divided into three buttons this area allows the user to initiate the tracking of targets, closing a case (can be continued) or complete a case (can only be opened in read only) |
 
+## Module settings
+SliceTracker provides some module settings that needs to be changed in case of:
+1. series description of the DICOM images differ from the one shown in the module settings
+2. you want to use `demo mode` which hides patient specific information from SliceTracker (not yet from mpReview)
+3. change the maximum rating score for registration results
+4. you want to use a different color map 
+![](/assets/module_settings.png)
+
 ## Segmentation
 For initiating target tracking a segmentation mask needs to be created which covers the area of the prostate. The image below describes the user interface elements of that step.
 
