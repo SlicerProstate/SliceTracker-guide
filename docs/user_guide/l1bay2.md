@@ -12,8 +12,8 @@ Connect Ethernet cable to a network port underneath the printer. Lower right por
 | Gateway| 172.23.204.1 | |
 | DNS | 170.223.101.17 | |
 
-### Test connection
-To check the connection, press Ctrl+Esc on the MRI Host to pop up windows menu, choose "Run...," type 
+### Test connection from MRI host computer
+To check the connection, press Ctrl+Esc on the MRI host to pop up windows menu, choose "Run...," type 
 
 ```
 cmd
