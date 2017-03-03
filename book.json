@@ -1,6 +1,8 @@
 {
     "plugins": [
-        "ga"
+        "ga",
+        "-search",
+        "search-plus"
     ],
     "title": "SliceTracker manual",
     "author": "Andrey Fedorov, Christian Herz",
