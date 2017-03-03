@@ -7,20 +7,6 @@
     "title": "SliceTracker manual",
     "author": "Andrey Fedorov, Christian Herz",
     "pluginsConfig": {
-        "autocover": {
-            "font": {
-                "size": 32,
-                "family": "Helvetica",
-                "color": "#00"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#FF"
-            }
-        },
         "ga": {
             "token": "UA-44852938-5"
         }
