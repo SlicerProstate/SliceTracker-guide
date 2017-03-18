@@ -20,9 +20,9 @@ Buttons in the module panel provide the following features:
 
 |<center>Button|Description|
 |--|--|
-|<center><img src="../../SliceTracker/Resources/Icons/icon-greenCheck.png" width="20">|finish segmentation|
-|<center><img src="../../SliceTracker/Resources/Icons/icon-undo.png" width="20">,<img src="../../SliceTracker/Resources/Icons/icon-redo.png" width="20">|undo/redo point placement|
-|<center><img src="../../SliceTracker/Resources/Icons/icon-cancelSegmentation.png" width="20">|cancel segmentation|
+|<center><img src="../images/Icons/icon-greenCheck.png" width="20">|finish segmentation|
+|<center><img src="../images/Icons/icon-undo.png" width="20">,<img src="../images/Icons/icon-redo.png" width="20">|undo/redo point placement|
+|<center><img src="../images/Icons/icon-cancelSegmentation.png" width="20">|cancel segmentation|
 
 
 After prostate segmentation has been completed, SliceTracker will decide based on the availability of pre-procedural image data about which steps to display next. 
