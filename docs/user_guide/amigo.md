@@ -15,9 +15,9 @@ ATTENTION: don't connect two devices with the same network configuration to the 
 
 | Configuration parameter | Value |
 | -- | -- |
-| IP | 192.168.1.3 |
-| Subnet Mask | 255.255.255.0 |
-| Default Gateway (router on OS X)| 192.168.1.1
+| IP | 172.22.99.143 |
+| Subnet Mask | 255.255.255.192 |
+| Default Gateway (router on OS X)| 172.22.99.129
 
 ### Single port forwarding
 The switch handles data coming from the MR scanner. Based on its configuration those DICOM images will be forwarded to another ip (with another port).  
