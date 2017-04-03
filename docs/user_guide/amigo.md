@@ -2,7 +2,7 @@
 
 To set up SliceTracker in [AMIGO](http://www.brighamandwomens.org/research/amigo/default.aspx), you will need to:
 
-* Connect the Macbook directly to the ethernet cable labeled "AMIGO Client 3 or 4" coming from the ethernet outlet next to the MR-workstation \(under the table\)
+* Connect the Macbook directly to the ethernet yellow cable coming from the ethernet outlet next to the MR-workstation \(under the table\)
 * Apply the network configuration \(see Network configuration details\)
 * On the MR console, use AMIGO-CLIENT-4 destination to send the data
 
