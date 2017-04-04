@@ -9,7 +9,6 @@ Connect Ethernet cable to a network port underneath the printer. Lower right por
 | IP | 172.23.204.62 | Dedicated to the workstation; can be used in Bay 2 area; The IP address is registered in the Bay 2 scanner host for DICOM transfer|
 | Subnet Mask | 255.255.255.0 | |
 | Gateway| 172.23.204.1 | |
-| DNS | 170.223.101.17 | |
 
 ### Test connection from MRI host computer
 To check the connection, press Ctrl+Esc on the MRI host to pop up windows menu, choose "Run...," type 
