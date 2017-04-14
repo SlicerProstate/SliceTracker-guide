@@ -1,4 +1,4 @@
-![Alt text](Logo/SliceTracker.png)
+![Alt text](Logo/SlicerProstate.png) ![Alt text](Logo/SliceTracker.png)
 
 ### Overview
 
