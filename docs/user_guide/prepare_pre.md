@@ -6,7 +6,7 @@ Once the pre-procedural data is received, you will be guided through the steps t
 
 To annotate the data, first check the series of interest in the "Study selection" tab. When done, proceed to the "Segmentation" tab.
 
-![](../images/mpreview.png)
+![](/assets/mpReview.png)
 
 All of the series you selected will be loaded in the viewers, and shown in the same plane reformat. Once in the Segmentation tab, choose T2-weighted axial series as the Reference image. This will configure the Slicer viewer layout as follows:
 
@@ -40,8 +40,6 @@ To segment the prostate gland, you will have the option of performing automatic 
 TODO: Add pictures of automatic segmentation dialog
 
 For the automatic segmentation, no structure or contour is needed from the preparation phase. The only data required is placed targets. Activate the Completion tab and click the Save button. You will be prompted with a dialog informing you that no WholeGland segmentation is found but automatic segmentation is available. Click "Yes" when prompted.
-
-
 
 ### Manual Segmentation
 

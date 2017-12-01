@@ -2,7 +2,7 @@
 
 As the first step, create a new case with the "New case" button in the SliceTracker console. This will initialize the layout of the directories for the data, and will start the process of listening for the incoming DICOM images.
 
-![](../images/slicetracker_initial.png)
+![](/assets/slicetracker_initial.png)
 
 **Advanced**: Directory Settings panel can be used to change the default location of where cases will be stored.
 
@@ -21,6 +21,7 @@ The listener will be running on port 11112. You will need to configure your send
   $ python watch.py -d LocalDirectory
   ```
 * to send files files from `LocalDirectory` to the instance of SliceTracker running on IP address 10.0.0.1:
+
   ```
   $ python watch.py -d LocalDirectory -h 10.0.0.1
   ```
