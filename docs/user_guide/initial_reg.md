@@ -4,15 +4,14 @@ Once Z-frame registration is confirmed, and `CoverProstate` image is acquired, t
 
 **IMPORTANT**: Notify the clinical lead of the procedure once you reach this point. This is important to confirm coverage of the gland.
 
-After coverage confirmation, proceed with target re-identification by clicking "Track targets" button.
+After coverage confirmation, proceed with target re-identification by clicking "Track targets" button. This will trigger automatic segmentation of the prostate if the "Use Deep Learning" setting is enabled.
 
-To track targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show fiducial placement icon![](../images/fiducialmode_icon.png). 
+TODO: Show the post automatic segmentation verification.
+If the automatic segmentation occurs, you will then have a chance to verify and modify the segmentation, if necessary.
 
-Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. 
+If proceeding with the manual approach for tracking targets, you will first prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show the fiducial placement icon![](../images/fiducialmode_icon.png). 
 
-![](../images/volumeclip_points.png)
-
-You will need to place points on multiple slices before the green outline appears.
+Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. After placing a minimum of two points, the points will be joined by a green outline.
 
 ![](../images/volumeclip_contour.png)
 
