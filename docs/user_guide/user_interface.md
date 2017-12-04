@@ -24,8 +24,8 @@ The overview mode allows user to create/load cases, trigger target tracking and 
 
 | User Interface Element | Description |
 | -- | -- |
-| Case/patient watch box | Displays information about the current patient, pre-procedural and current study |
-| View options bar | Provides buttons for controlling the visibility of annotations, crosshair, Z-frame model, grid and computed needle path model. All supported layouts are available through buttons and additional to that the `WindowLevelEffect` for changing the window level with respect to fore -and background is included. ![View options bar](/assets/view_options.png)
+| Case/patient watch box | Displays information about the current patient, as well as relevant pre-operative and intra-operative imaging information. |
+| View options bar | Provides buttons for controlling the visibility of annotations, crosshair, Z-frame model, grid and computed needle path model. All supported layouts are available through buttons and a button is also included for `WindowLevelEffect`; for changing the window level with respect to fore -and background. ![View options bar](/assets/view_options.png)
 |
 | Case directory settings | This area includes a directory selector which represents the root directory for all cases. Furthermore when starting/loading a case, all directory information to that case are displayed in the directory watch box below the `Cases Root Directory` directory selector. |
 | Case action buttons | Action buttons for creating a new case, loading/continuing an existing case, or closing/completing a case. |
