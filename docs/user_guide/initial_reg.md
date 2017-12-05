@@ -30,9 +30,13 @@ After prostate segmentation has been completed, SliceTracker will decide based o
 
 If pre-procedural image data is available, the layout will automatically change to show the pre-procedural (planning) T2-weighted image on the left, and the intra-procedural `CoverProstate` image on the right. Both viewers will show the segmentation outline as overlays. Confirm that segmentations are similar (no large portions of the gland are skipped in either of the images).
 
-Click "Apply registration" once segmentation consistency is confirmed.
+You also have the option to add new intra-operative targets to the images, via the intra-operative targets table shown below. Targets added will be joined with the pre-operative targets after registration.
 
-Upon completion of registration, you will be presented with a layout showing biopsy plan on the left, and registration result on the right.
+![](/assets/intra_operative_targets.png)
+
+Click "Run registration" button once segmentation consistency is confirmed and any new targets have been placed.
+
+Upon completion of registration, you will be presented with a layout showing the biopsy plan on the left, and the registration result on the right.
 
 **IMPORTANT**: Confirm the accuracy of registration with the clinical lead of the procedure!
 

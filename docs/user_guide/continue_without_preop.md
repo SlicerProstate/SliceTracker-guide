@@ -8,7 +8,7 @@ To do so, SliceTracker already activated the `Target Placement Mode` which is in
   -- | -- 
  Created target appears in the main UI target table with its initial name. | Double click onto the name cell of the target that you want to rename. 
 
-After you finished setting and renaming of targets, click `Done setting targets` button below the target table. The following prompt will be displayed.
+After you finished setting and renaming of targets, click the checkmark button below the target table. The following prompt will be displayed.
 
 <center>![](../images/no_preop_finishing_prompt.png)
 
