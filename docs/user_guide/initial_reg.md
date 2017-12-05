@@ -34,7 +34,7 @@ You also have the option to add new intra-operative targets to the images, via t
 
 ![](/assets/intra_operative_targets.png)
 
-Click "Run registration" button once segmentation consistency is confirmed and any new targets have been placed.
+Click the "Run registration" button once segmentation consistency is confirmed and any new targets have been placed.
 
 Upon completion of registration, you will be presented with a layout showing the biopsy plan on the left, and the registration result on the right.
 
