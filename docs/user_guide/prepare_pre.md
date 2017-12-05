@@ -37,9 +37,11 @@ To segment the prostate gland, you will have the option of performing automatic 
 
 ### Automatic Segmentation \(using DeepInfer\)
 
-TODO: Add pictures of automatic segmentation dialog
+![](/assets/automatic_segmentation_prompt.png)
 
-For the automatic segmentation, no structure or contour is needed from the preparation phase. The only data required is placed targets. Activate the Completion tab and click the Save button. You will be prompted with a dialog informing you that no WholeGland segmentation is found but automatic segmentation is available. Click "Yes" when prompted.
+For automatic segmentation, no structure or contour is needed from the preparation phase. The only data required is set targets. Once targets are set, activate the Completion tab and click the Save button. You will be prompted with a dialog \(shown above\) informing you that no WholeGland segmentation is found but automatic segmentation is available. Click "Yes" when prompted. You will then be prompted as to whether an endorectal coil was used during pre-preprocedural imaging. See "Intensity inhomogeneity correction" section below for more information.
+
+Automatic segmentation will occur and upon completion you will be prompted with a verification dialog where you can confirm the segmentation or modify using Segment Editor if necessary. Once confirmed, SliceTracker will proceed to wait for intra-procedural DICOM data for continuing with the workflow.
 
 ### Manual Segmentation
 
