@@ -55,11 +55,11 @@ Once the prostate is segmented in T2-weighted series and the biopsy targets are 
 
 ## Intensity inhomogeneity correction
 
-Upon completion of the pre-procedural data annotation, you will be prompted to respond whether endorectal coil was used during pre-procedural imaging. A dialog with the image volume will allow you to verify this by viewing the volume.
+Upon completion of the pre-procedural data annotation, you will be prompted to respond whether an endorectal coil was used during pre-procedural imaging. A dialog with the image volume will allow you to verify this by viewing the volume.
 
 ![](/assets/ecoil_prompt.png)
 
-![](/assets/ecoil_prompt.png)
+
 
 The use of endorectal coil can be recognized by enlarged round shape of the rectum, as shown in the image below.
 
