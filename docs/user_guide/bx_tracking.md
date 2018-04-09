@@ -1,5 +1,4 @@
-#
-Intra-procedural tracking of targets
+# Intra-procedural tracking of targets
 
 The intra-procedural phase of the workflow is driven by the intra-procedural image data. The sequence of processing steps and the corresponding types of image series is the following:
 1. Z-frame calibration: in this step, the Z-frame device attached to the transperineal biopsy template is registered with the coordinate frame of the scanner. In AMIGO, Z-frame image series will have the name "AX TSE T2 COVER TEMPLATE" \(`ZFrame` image\).
