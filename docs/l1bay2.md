@@ -5,7 +5,7 @@ Connect Ethernet cable to a network port underneath the printer. Lower right por
 ### Network configuration details
 
 | Configuration parameter | Value | Comment
-| -- | -- | -- |
+| --- | --- | --- |
 | IP | 172.23.204.62 | Dedicated to the workstation; can be used in Bay 2 area; The IP address is registered in the Bay 2 scanner host for DICOM transfer|
 | Subnet Mask | 255.255.255.0 | |
 | Gateway| 172.23.204.1 | |

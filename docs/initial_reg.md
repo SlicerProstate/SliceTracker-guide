@@ -17,11 +17,11 @@ Click in the vicinity of the prostate capsule boundary to make sure the green ou
 
 Buttons in the module panel provide the following features:
 
-|<center>Button|Description|
-|--|--|
-|<center><img src="images/Icons/icon-greenCheck.png" width="20">|finish segmentation|
-|<center><img src="images/Icons/icon-undo.png" width="20">,<img src="images/Icons/icon-redo.png" width="20">|undo/redo point placement|
-|<center><img src="images/Icons/icon-cancelSegmentation.png" width="20">|cancel segmentation|
+| Button  | Description |
+|---| --- |
+|<img src="images/Icons/icon-apply.png" width="20">|finish segmentation
+|<img src="images/Icons/icon-undo.png" width="20">,<img src="images/Icons/icon-redo.png" width="20">|undo/redo point placement|
+|<img src="images/Icons/icon-cancel.png" width="20">|cancel segmentation|
 
 After prostate segmentation has been completed, SliceTracker decides based on the availability of pre-procedural image data about which steps to display next.
 
@@ -44,12 +44,12 @@ You can use the following tools to verify registration accuracy:
 * `Flicker` checkbox: quickly flip back and forth between the registered planning image and the `CoverProstate` image.
 * `Reveal cursor` button: show mosaic of the registered planning image and the `CoverProstate` image at the cursor location.
 
-| ![Biopsy template assembly (left) and Z-frame. MR-visible capsules are yellow within a plexiglass enclosure.](images/registration_evaluation.png) | ![Z-frame and needle template models before calibration ](images/reveal_cursor.png) |
-| -- | -- |
-| User interface elements to support registration result evaluation. | Reveal cursor in action. |
+| ![](images/registration_evaluation.png) | ![](images/reveal_cursor.png)|
+| --- | --- |
+| User interface elements to support registration result evaluation | Reveal cursor in action |
 
 
-**If registration result is satisfactory**: Click `Approve1`, communicate the needle hole and insertion depth to the clinical lead.
+**If registration result is satisfactory**: Click `Approve`, communicate the needle hole and insertion depth to the clinical lead.
 
 **If registration result is NOT satisfactory**, here is what you can try:
 * _check different registration types (Rigid or Affine)_: if any of these is satisfactory - approve it.
