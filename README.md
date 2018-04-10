@@ -18,7 +18,7 @@ Capabilities of SliceTracker include:
 
 For more details, please read [SliceTracker user guide](https://www.gitbook.com/read/book/fedorov/slicetracker).
 
-![](images/intra_procedural_overview.png)
+![](docs/images/intra_procedural_overview.png)
 
 ### Disclaimer
 
