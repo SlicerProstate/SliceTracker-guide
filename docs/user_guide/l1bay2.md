@@ -11,7 +11,7 @@ Connect Ethernet cable to a network port underneath the printer. Lower right por
 | Gateway| 172.23.204.1 | |
 
 ### Test connection from MRI host computer
-To check the connection, press Ctrl+Esc on the MRI host to pop up windows menu, choose "Run...," type 
+To check the connection, press Ctrl+Esc on the MRI host to pop up windows menu, choose "Run...," type
 
 ```
 cmd
@@ -28,11 +28,4 @@ If the network is configured properly, you will see responses like:
 ```
 Reply from 172.23.204.62 bytes=32 time<1ms TTL=64
 ```
-If there is any issue, the terminal shows network unreachable error.
-
-
-
-
-
-
-
+If there is an issue, the terminal shows network unreachable error.
