@@ -1,5 +1,4 @@
-#
-Workflow overview
+# Workflow overview
 
 The SliceTracker workflow consists of the two phases: preparation of the biopsy plan and intra-procedural tracking of the biopsy targets.
 
