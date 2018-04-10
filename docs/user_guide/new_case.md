@@ -1,5 +1,4 @@
-#
-Create new case
+# Create new case
 
 As the first step, create a new case with the `New case` button in the SliceTracker console. This initializes the layout of the directories for the data and starts the process of listening for the incoming DICOM images.
 
