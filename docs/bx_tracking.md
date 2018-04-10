@@ -5,7 +5,7 @@ The intra-procedural phase of the workflow is driven by the intra-procedural ima
 2. Registration of the pre-procedural T2-weighted series to the intra-procedural imaging and re-identification of the planned target locations. In AMIGO, initial, high-resolution intra-procedural T2-weighted image will have the name "AXIAL T2 COVER PROSTATE" \(`CoverProstate` image\).  
 3. Tracking of the biopsy targets in the needle confirmation scans. In AMIGO, needle confirmation images will be called either "AX TSE T2 GUIDANCE FOR NEEDLE" \(T2-weighted images\) \(`Needle` image\) or "AX 3D VIBE" \(`Vibe` image\).
 
-![](/assets/intra_procedural_overview.png)
+![](images/intra_procedural_overview.png)
 
 As new images are received, they will be added to the series selector in the SliceTracker control panel, right under the target list. The image currently selected will be shown in the slice viewers. Each item in the series selector is color-coded:
 

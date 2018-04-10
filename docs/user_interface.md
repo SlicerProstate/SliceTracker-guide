@@ -4,7 +4,7 @@ This section describes the overall user interface in detail.
 
 ## 3D Slicer interface overview
 
-![](/assets/Slicer_gui_overview.png)
+![](images/Slicer_gui_overview.png)
 
 1. **Main toolbar**: this area contains shortcut buttons for some of the general purpose functions of 3D Slicer
 
@@ -19,12 +19,12 @@ This section describes the overall user interface in detail.
 ## SliceTracker user interface overview
 The overview mode allows the user to create/load/complete cases, trigger target tracking (running registration for target re-identification) and view processed registration results. It is the primary step after loading SliceTracker.
 
-![](/assets/user_interface.png)
+![](images/user_interface.png)
 
 | User Interface Element | Description |
 | -- | -- |
 | Case/patient watch box | Displays information about the current patient, as well as relevant pre-operative and intra-operative imaging information. |
-| View options bar | Provides buttons for accessing module settings and controlling the visibility patient-specific information, crosshair, Z-frame model, and template grid. All supported layouts are available through buttons. A button for testing the DICOM connection is also available. ![View options bar](/assets/view_options.png)
+| View options bar | Provides buttons for accessing module settings and controlling the visibility patient-specific information, crosshair, Z-frame model, and template grid. All supported layouts are available through buttons. A button for testing the DICOM connection is also available. ![View options bar](images/view_options.png)
 |
 | Case directory settings | This area includes a directory selector which represents the root directory for all cases. When starting a new case, SliceTracker predicts the new case number based on the root case directory. Furthermore, when starting/loading a case, directory information to that case is displayed in the directory watch box below the `Cases Root Directory` directory selector. |
 | Case action buttons | Action buttons for creating a new case, loading/continuing an existing case, or closing/completing a case. |
@@ -33,9 +33,9 @@ The overview mode allows the user to create/load/complete cases, trigger target 
 | Intra-procedural image selection/targeting | As soon as intra-procedural images are received and loaded, they appear in the series selector combo box. Colors indicate the availability of registration results. Images can only be skipped under certain circumstances. Initial `Cover Prostate` and `Cover Template` images cannot be skipped since they are essential for the whole process of registration. The buttons to the right of the selector are for allowing the user to change the series type, initiate tracking of targets, and skip the selected series, respectively. |
 
 ## Module settings
-For accessing the module settings, you need to use ![](../images/Icons/icon-settings.png) from the `view options bar`.
+For accessing the module settings, you need to use ![](images/Icons/icon-settings.png) from the `view options bar`.
 
-![](/assets/module_settings.png)
+![](images/module_settings.png)
 
 Changing SliceTracker module settings is recommended in case of:
 * series description pattern of DICOM images used for series type assignment differs from the currently specified pattern
@@ -46,10 +46,10 @@ Changing SliceTracker module settings is recommended in case of:
 ## Segmentation
 For initiating target registration, a segmentation mask needs to be created which covers the area of the prostate. The image below describes the user interface elements of that step (presented after performing automatic segmentation).
 
-![](/assets/segmentation_interface.png)
+![](images/segmentation_interface.png)
 
 ## Registration evaluation
-![](../images/evaluation_interface.png)
+![](images/evaluation_interface.png)
 
 | User Interface Element | Description |
 | -- | -- |

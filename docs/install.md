@@ -6,7 +6,7 @@ Download the latest nightly release for your platform from [http://download.slic
 
 **Do NOT use installers tagged as "Stable Release"!**
 
-![](../images/slicer_download.png)
+![](images/slicer_download.png)
 
 After downloading, follow the installation procedure for your platform.
 
@@ -14,21 +14,21 @@ If you use Mac, make sure you move the Slicer application to the Applications fo
 
 Once installed, open Extension Manager by clicking the icon as shown below.
 
-![](../images/extension_manager.png)
+![](images/extension_manager.png)
 
 Search for "SliceTracker" and install the extension by clicking the INSTALL button.
 
-![](../images/install_slicetracker.png)
+![](images/install_slicetracker.png)
 
 Note that SliceTracker depends on several other extensions. When prompted, accept installation of those.
 
-![](/assets/install_dependencies.png)
+![](images/install_dependencies.png)
 
 Once installation of SliceTracker and dependencies is completed, you will need to restart Slicer application to access the module.
 
 If installation was successful, you should be able to see SliceTracker module in the Slicer module list.
 
-![](../images/confirm_install.png)
+![](images/confirm_install.png)
 
 # Upgrade
 

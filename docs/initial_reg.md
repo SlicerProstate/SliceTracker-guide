@@ -9,19 +9,19 @@ After coverage confirmation, proceed with target re-identification by clicking `
 TODO: Show the post automatic segmentation verification.
 After automatic segmentation, you have a chance to verify and modify the segmentation, if necessary.
 
-If proceeding with the manual approach for tracking targets, you need to prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show the fiducial placement icon![](../images/fiducialmode_icon.png).
+If proceeding with the manual approach for tracking targets, you need to prepare a rough segmentation of the prostate gland. Your mouse cursor should automatically show the fiducial placement icon![](images/fiducialmode_icon.png).
 
 Click in the vicinity of the prostate capsule boundary to make sure the green outline approximates the capsule. After placing a minimum of two points, the points will be joined by a green outline.
 
-![](../images/volumeclip_contour.png)
+![](images/volumeclip_contour.png)
 
 Buttons in the module panel provide the following features:
 
 |<center>Button|Description|
 |--|--|
-|<center><img src="../images/Icons/icon-greenCheck.png" width="20">|finish segmentation|
-|<center><img src="../images/Icons/icon-undo.png" width="20">,<img src="../images/Icons/icon-redo.png" width="20">|undo/redo point placement|
-|<center><img src="../images/Icons/icon-cancelSegmentation.png" width="20">|cancel segmentation|
+|<center><img src="images/Icons/icon-greenCheck.png" width="20">|finish segmentation|
+|<center><img src="images/Icons/icon-undo.png" width="20">,<img src="images/Icons/icon-redo.png" width="20">|undo/redo point placement|
+|<center><img src="images/Icons/icon-cancelSegmentation.png" width="20">|cancel segmentation|
 
 After prostate segmentation has been completed, SliceTracker decides based on the availability of pre-procedural image data about which steps to display next.
 
@@ -31,7 +31,7 @@ If pre-procedural image data is available, the layout automatically changes to s
 
 You also have the option to add new intra-operative targets to the images, via the intra-operative targets table shown below. Targets added will be joined with the pre-operative targets after registration.
 
-![](/assets/intra_operative_targets.png)
+![](images/intra_operative_targets.png)
 
 Click the `Run registration` button once segmentation consistency is confirmed and any new targets have been placed.
 
@@ -44,7 +44,7 @@ You can use the following tools to verify registration accuracy:
 * `Flicker` checkbox: quickly flip back and forth between the registered planning image and the `CoverProstate` image.
 * `Reveal cursor` button: show mosaic of the registered planning image and the `CoverProstate` image at the cursor location.
 
-| ![Biopsy template assembly (left) and Z-frame. MR-visible capsules are yellow within a plexiglass enclosure.](../images/registration_evaluation.png) | ![Z-frame and needle template models before calibration ](../images/reveal_cursor.png) |
+| ![Biopsy template assembly (left) and Z-frame. MR-visible capsules are yellow within a plexiglass enclosure.](images/registration_evaluation.png) | ![Z-frame and needle template models before calibration ](images/reveal_cursor.png) |
 | -- | -- |
 | User interface elements to support registration result evaluation. | Reveal cursor in action. |
 

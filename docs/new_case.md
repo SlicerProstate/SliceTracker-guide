@@ -2,13 +2,13 @@
 
 As the first step, create a new case with the `New case` button in the SliceTracker console. This initializes the layout of the directories for the data and starts the process of listening for the incoming DICOM images.
 
-![](/assets/slicetracker_initial.png)
+![](images/slicetracker_initial.png)
 
 **Advanced**: Directory Settings panel can be used to change the default location of where cases will be stored.
 
 Once the new case is initiated, you should see the message indicating that SliceTracker is waiting for the incoming DICOM data.
 
-![](../images/listener_started.png)
+![](images/listener_started.png)
 
 **Important** If prompted about whether you want to end other DICOM listeners running, answer `Yes`. Otherwise, you will not be able to proceed!
 
