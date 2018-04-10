@@ -19,9 +19,9 @@ Buttons in the module panel provide the following features:
 
 | Button  | Description |
 |---| --- |
-|<img src="images/icons/icon-apply.png" width="20">|finish segmentation
-|<img src="images/icons/icon-undo.png" width="20">,<img src="images/icons/icon-redo.png" width="20">|undo/redo point placement|
-|<img src="images/icons/icon-cancel.png" width="20">|cancel segmentation|
+|<img src="images/Icons/icon-apply.png" width="20">|finish segmentation
+|<img src="images/Icons/icon-undo.png" width="20">,<img src="images/Icons/icon-redo.png" width="20">|undo/redo point placement|
+|<img src="images/Icons/icon-cancel.png" width="20">|cancel segmentation|
 
 After prostate segmentation has been completed, SliceTracker decides based on the availability of pre-procedural image data about which steps to display next.
 
