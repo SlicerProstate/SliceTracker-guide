@@ -23,8 +23,6 @@ All of the series you selected are loaded into the viewers and shown in the same
 
 Use "Add Structure" button to add a new structure you want to segment \(you should at least segment the prostate \("Whole Gland" label in the structures list\). NOTE: This is only necessary if performing manual segmentation. See the Segmentation section below for more information.
 
-Click the Window Level effect button ![](images/wl_icon.png). Update the window/level for each of the viewers as necessary.
-
 Click the Fiducials placement button in the Slicer toolbar, and place targets by clicking on the slice viewers.
 
 ![](images/fiducials_placement.png)
