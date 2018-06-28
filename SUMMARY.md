@@ -22,5 +22,6 @@
   * [AMIGO-specific setup](docs/amigo.md)
   * [L1 Bay2 setup](docs/l1bay2.md)
   * [Frequently Asked Questions \(FAQ\)](docs/faq.md)
+* [Developer guide](developer-guide.md)
 * [License](LICENSE.md)
 
