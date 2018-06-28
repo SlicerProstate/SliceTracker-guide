@@ -12,7 +12,7 @@ SliceTracker was designed to be flexible and easily extensible by using a plugin
 * _Training_ offers a user interface showing buttons for simulating the reception of pre -and intra-procedural imaging data.
 
 ## mpReview
-Preprocessing of planning images is done by the [3D Slicer extension mpReview], (https://github.com/SlicerProstate/mpReview)which has been integrated into the SliceTracker specific tpMRgBx workflow. Based on mpMRI, the interventionalist identifies suspicious lesions. After target identification, prostate gland segmentation can either be done manually in mpReview or automatically by SliceTracker using the segmentation approach provided by DeepInfer.
+Preprocessing of planning images is done by the [3D Slicer extension mpReview](https://github.com/SlicerProstate/mpReview), which has been integrated into the SliceTracker specific tpMRgBx workflow. Based on mpMRI, the interventionalist identifies suspicious lesions. After target identification, prostate gland segmentation can either be done manually in mpReview or automatically by SliceTracker using the segmentation approach provided by DeepInfer.
 
 ## Events
 An event-based approach was adopted for keeping SliceTracker steps and plugins loosely coupled. Session, steps and plugins can listen to events of other classes as well as invoke events of their own. As an example, a plugin listens to the event when a case is closed. Upon invocation of that event, the plugin can clean its own internal data structure getting ready for new data.
