@@ -1,6 +1,7 @@
 # AMIGO-specific setup
 
 To set up SliceTracker in [AMIGO](http://www.brighamandwomens.org/research/amigo/default.aspx), you need to:
+
 * connect the MacBook directly to the yellow ethernet cable coming from the ethernet outlet next to the MR-workstation \(under the table\)
 * apply the network configuration \(see Network configuration details\)
 * use `AMIGO-CLIENT-4` on the MR console as the destination to send the data
@@ -11,6 +12,9 @@ NOTE: there is an internal port forwarding configured in the Macbook which forwa
 
 | Configuration parameter | Value |
 | --- | --- |
-| IP | 172.22.99.143 |
-| Subnet Mask | 255.255.255.192 |
-| Default Gateway \(router on OS X\) | 172.22.99.129 |
+| IP | x |
+| Subnet Mask | x |
+| Default Gateway \(router on OS X\) | x |
+
+
+
